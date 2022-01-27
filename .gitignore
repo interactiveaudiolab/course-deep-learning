@@ -1,0 +1,10 @@
+# miscellaneous
+**/..git/*
+__pycache__/
+.DS_Store
+._.DS_Store
+.ipynb_checkpoints/
+.vscode/
+*.egg-info/
+.pytest_cache
+*.ipynb_checkpoints/
