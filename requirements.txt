@@ -2,3 +2,4 @@ torch
 torchvision
 torchaudio
 matplotlib
+tensorboard

@@ -8,3 +8,7 @@ __pycache__/
 *.egg-info/
 .pytest_cache
 *.ipynb_checkpoints/
+
+# ignore large data
+data/*
+logs/*
