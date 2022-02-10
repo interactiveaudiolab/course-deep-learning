@@ -1,5 +1,14 @@
 torch
 torchvision
+gdown
 torchaudio
+librosa
 matplotlib
 tensorboard
+ipython
+ipykernel
+tqdm
+librosa <= 0.8.1
+numpy <= 1.21
+seaborn
+torchsummary
