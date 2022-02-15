@@ -40,13 +40,13 @@ def load_mnist(train_batch_size: int = 64, test_batch_size: int = 1000):
 
     # download MNIST data
     train_data = datasets.MNIST(
-        '../data',
+        './data',
         train=True,
         download=True,
         transform=transform
     )
     test_data = datasets.MNIST(
-        '../data',
+        './data',
         train=False,
         transform=transform,
     )
