@@ -44,6 +44,11 @@ def make_two_gaussians_data(
     # wrap it up and ship it out!
     data = np.concatenate([posData, negData])
     labels = np.concatenate([posL, negL])
+    
+    # shuffle the data
+    perm = permutation(len(labels))
+    data = data[perm]
+    labels = labels[perm]
 
     return data, labels
 
@@ -76,6 +81,11 @@ def make_XOR_data(examples_per_class: int):
 
     labels = np.sign(np.multiply(x, y))
 
+    # shuffle the data
+    perm = permutation(len(labels))
+    data = data[perm]
+    labels = labels[perm]
+        
     return data, labels
 
 
@@ -134,6 +144,11 @@ def make_center_surround_data(
     data = np.concatenate([posData, negData])
     labels = np.concatenate([posL, negL])
 
+    # shuffle the data
+    perm = permutation(len(labels))
+    data = data[perm]
+    labels = labels[perm]
+        
     return data, labels
 
 
@@ -173,4 +188,9 @@ def make_spiral_data(examples_per_class):
     data = np.concatenate([posData, negData])
     labels = np.concatenate([posL, negL])
 
+    # shuffle the data
+    perm = permutation(len(labels))
+    data = data[perm]
+    labels = labels[perm]
+        
     return data, labels
