@@ -6,13 +6,13 @@ from numpy import pi
 ################################################################################
 
 
-def make_linearly_separable_data(
+def make_two_gaussians_data(
         examples_per_class: int,
         distance_between_means: float
 ):
     """
     Create a 2-dimensional set of points, where half the points are drawn from
-    one Gaussian and the other half are drawn from a different Gaussian
+    one Gaussian distribution and the other half are drawn from a different Gaussian
 
     PARAMETERS
     ----------
