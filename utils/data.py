@@ -1,6 +1,7 @@
 import numpy as np
 from numpy import pi
 
+
 ################################################################################
 # Datasets
 ################################################################################
@@ -46,7 +47,7 @@ def make_two_gaussians_data(
     labels = np.concatenate([posL, negL])
     
     # shuffle the data
-    perm = permutation(len(labels))
+    perm = np.permutation(len(labels))
     data = data[perm]
     labels = labels[perm]
 
@@ -82,7 +83,7 @@ def make_XOR_data(examples_per_class: int):
     labels = np.sign(np.multiply(x, y))
 
     # shuffle the data
-    perm = permutation(len(labels))
+    perm = np.permutation(len(labels))
     data = data[perm]
     labels = labels[perm]
         
@@ -145,7 +146,7 @@ def make_center_surround_data(
     labels = np.concatenate([posL, negL])
 
     # shuffle the data
-    perm = permutation(len(labels))
+    perm = np.permutation(len(labels))
     data = data[perm]
     labels = labels[perm]
         
@@ -189,7 +190,7 @@ def make_spiral_data(examples_per_class):
     labels = np.concatenate([posL, negL])
 
     # shuffle the data
-    perm = permutation(len(labels))
+    perm = np.permutation(len(labels))
     data = data[perm]
     labels = labels[perm]
         
