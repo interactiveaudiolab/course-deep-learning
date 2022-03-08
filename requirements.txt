@@ -1,6 +1,6 @@
 torch
 torchvision
-gdown
+gdown >= 4.4.0
 torchaudio
 librosa
 matplotlib
