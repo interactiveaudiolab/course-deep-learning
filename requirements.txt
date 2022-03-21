@@ -5,7 +5,7 @@ torchaudio
 librosa
 matplotlib
 tensorboard
-ipython
+ipython >= 8.0
 ipykernel
 tqdm
 librosa <= 0.8.1
