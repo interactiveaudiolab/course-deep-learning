@@ -2,7 +2,7 @@
 
 # DEEP LEARNING: Northwestern University CS 396/496 FALL 20
 
-|[**Top**](#top)|  [**Calendar**](#calendar)| [**Links**](#links)| [**Slides**](#slides)|  [**Readings**](#readings)|
+|[**Top**](#top)|  [**Calendar**](#calendar)| [**Links**](#links)| [**Readings**](#readings)|
 
 #### Loctation
 Swift Hall 107
@@ -86,15 +86,6 @@ No additional extra credit beyond the class participation will be provided. No r
 |10| Wed Jun 01    | Current research in DL                                                                 | | |
 |10| Fri Jun 03    | Current research in DL                                                                 | | |
 |11| Wed Jun 08    | No final exam, just final reading                                                      |Reading 6 | 9 |
-
-
-
-
-
-
-
-
-
 
 
 
@@ -271,4 +262,5 @@ If you already understand what convolutional networks are, then here are some po
 1. [A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play](https://science.sciencemag.org/content/362/6419/1140/): This is the AlphaZero paper. AlphaZero is the best go player...and a great chess player.
 
 
+ |[**Top**](#top)|  [**Calendar**](#calendar)| [**Links**](#links)| [**Readings**](#readings)|
 
