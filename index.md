@@ -12,9 +12,12 @@ Swift Hall 107
 #### Instructor
 [Bryan Pardo](http://bryanpardo.com)
 Office hours TBD
+Zoom link: The default class zoom (find it on canvas)
 
 #### TA 
 [Patrick O'Reilly](https://oreillyp.github.io/)
+Office hours Wednesday 2-3:30pm,  Saturday 2-3:30pm
+Zoom link: The default class zoom (find it on canvas)
 
 #### Peer Mentors
 Aldo Aguilar
@@ -75,7 +78,7 @@ No additional extra credit beyond the class participation will be provided. No r
 |6 | Fri May 06    | [Notebook 6: GANs](notebooks/notebook_6_gan.ipynb)                                     | | |
 |7 | Mon May 09    | Catch up day                                                                           |Homework 3 | 11 |
 |7 | Wed May 11    | Autoencoders                                                                           | | |
-|7 | Fri May 13    | Notebook 7: autoencoders                                                               | | |
+|7 | Fri May 13    | [Notebook 7: autoencoders](notebooks/)                                                               | | |
 |8 | Mon May 16    | [recurrent nets](slides/DL_recurrent_nets.pdf)                                         |Reading 4 | 9 |
 |8 | Wed May 18    | [LSTMs](slides/DL_recurrent_nets.pdf)                                                  | | |
 |8 | Fri May 20    | Notebook 8: recurrent nets                                                             | | |
