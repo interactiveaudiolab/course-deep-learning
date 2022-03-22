@@ -65,7 +65,7 @@ No additional extra credit beyond the class participation will be provided. No r
 |3 | Wed Apr 13    | [Convolutional nets](slides/DL_convolutional_nets.pdf)                                 | | |
 |3 | Fri Apr 15    | [Notebook 3: CNN in Pytorch](notebooks/notebook_3_image_classification.ipynb)          | | |
 |4 | Mon Apr 18    | Loss functions                                                                         |Reading 2 | 9 |
-|4 | Wed Apr 20    | [Data augmentation & generalization](DL_regularization.pdf)                            | | |
+|4 | Wed Apr 20    | [Data augmentation & generalization](slides/DL_regularization.pdf)                            | | |
 |4 | Fri Apr 22    | [Notebook 4: Logging](notebooks/notebook_4_augmentation_logging.ipynb)                 | | |
 |5 | Mon Apr 25    | [regularization](slides/DL_regularization.pdf)                                         |Homework 2 | 11 |
 |5 | Wed Apr 27    | [adversarial examples](slides/DL_adversarial_examples.pdf)                             | | |
