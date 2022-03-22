@@ -155,7 +155,7 @@ For $10 per month, you also get priority access to GPUs and TPUs.
 
 #### The basics (1st reading topic)
 
-1. [* Chapter 4 of Machine Learning ](http://www.cs.northwestern.edu/~pardo/courses/eecs349/readings/chapter4-ml.pdf): This is Tom Mitchell's book. Historical overview + explanation of backprop of error. It's a good starting point for actually understanding deep nets. **START HERE. IT'S WORTH 2 READINGS**
+1. [* Chapter 4 of Machine Learning ](readings/chapter4-ml.pdf): This is Tom Mitchell's book. Historical overview + explanation of backprop of error. It's a good starting point for actually understanding deep nets. **START HERE. IT'S WORTH 2 READINGS**
 
 1. [Chapter 6 of Deep Learning](http://www.deeplearningbook.org/): Modern intro on deep nets. To me, this is harder to follow than Chapter 4 of Machine Learning, though. Certainly, it's longer. 
 
