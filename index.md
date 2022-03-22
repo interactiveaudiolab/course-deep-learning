@@ -57,7 +57,7 @@ No additional extra credit beyond the class participation will be provided. No r
 |----:|------------|------------------------------------------|--------------------|------:|
 |1 | Tue Mar 29    | Course basics                                                                          | | |
 |1 | Wed Mar 30    | [Perceptrons](slides/DL_perceptrons.pdf)                                               | | |
-|1 | Fri Apr 01    | [Notebook 1: perceptrons](notebooks/notebook_1_perceptronipynb)                        | | |
+|1 | Fri Apr 01    | [Notebook 1: perceptrons](notebooks/notebook_1_perceptron.ipynb)                       | | |
 |2 | Mon Apr 04    | [Gradient descent](slides/DL_gradient_descent.pdf)                                     |Reading 1 | 9 |
 |2 | Wed Apr 06    | [Backpropagation of error](slides/DL_gradient_descent.pdf)                             | | |
 |2 | Fri Apr 08    | [Multi-layer perceptrons](slides/DL_multilayer_perceptrons.pdf)                        | | |
