@@ -4,10 +4,13 @@
 
 |[**Top**](#top)|  [**Calendar**](#calendar)| [**Links**](#links)| [**Readings**](#readings)|
 
-#### Loctation
-Swift Hall 107
 #### Class Day/Time
  M W F, 10:00am - 10:50am Central Time
+
+#### Loctation
+Mondays: Swift Hall 107 
+Wednesdays: Swift Hall 107 
+Fridays: online python notebook walk-throughs   
 
 #### Instructor
 [Bryan Pardo](http://bryanpardo.com)
@@ -16,7 +19,7 @@ Zoom link: The default class zoom (find it on canvas)
 
 #### TA 
 [Patrick O'Reilly](https://oreillyp.github.io/)
-Office hours Wednesday 2-3:30pm,  Saturday 2-3:30pm
+Office hours Wednesday 2:00-3:00pm,  Saturday 2:00-3:00pm
 Zoom link: The default class zoom (find it on canvas)
 
 #### Peer Mentors
@@ -58,31 +61,31 @@ No additional extra credit beyond the class participation will be provided. No r
 
 | Week|Day and Date| Topic (tentative)                        |Deliverable         | Points|
 |----:|------------|------------------------------------------|--------------------|------:|
-|1 | Tue Mar 29    | Course basics                                                                          | | |
-|1 | Wed Mar 30    | [Perceptrons](slides/DL_perceptrons.pdf)                                               | | |
+|1 | Tue Mar 29    | [Perceptrons](slides/DL_perceptrons.pdf)                                               | | |
+|1 | Wed Mar 30    | [Gradient descent](slides/DL_gradient_descent.pdf)                                     | | |
 |1 | Fri Apr 01    | [Notebook 1: perceptrons](notebooks/notebook_1_perceptron.ipynb)                       | | |
-|2 | Mon Apr 04    | [Gradient descent](slides/DL_gradient_descent.pdf)                                     |Reading 1 | 9 |
-|2 | Wed Apr 06    | [Backpropagation of error](slides/DL_gradient_descent.pdf)                             | | |
-|2 | Fri Apr 08    | [Multi-layer perceptrons](slides/DL_multilayer_perceptrons.pdf)                        | | |
-|3 | Mon Apr 11    | [Notebook 2: MLP in Pytorch](notebooks/notebook_2_nn.ipynb)                            |Homework 1 | 11 |
+|2 | Mon Apr 04    | [Backpropagation of error](slides/DL_gradient_descent.pdf)                         n   |Reading 1 | 9 |
+|2 | Wed Apr 06    | [Multi-layer perceptrons](slides/DL_multilayer_perceptrons.pdf)                        | | |
+|2 | Fri Apr 08    | [Notebook 2: MLP in Pytorch](notebooks/notebook_2_nn.ipynb)                            | | |
+|3 | Mon Apr 11    | Loss functions                                                                         |Homework 1 | 11 |
 |3 | Wed Apr 13    | [Convolutional nets](slides/DL_convolutional_nets.pdf)                                 | | |
 |3 | Fri Apr 15    | [Notebook 3: CNN in Pytorch](notebooks/notebook_3_image_classification.ipynb)          | | |
-|4 | Mon Apr 18    | Loss functions                                                                         |Reading 2 | 9 |
-|4 | Wed Apr 20    | [Data augmentation & generalization](slides/DL_regularization.pdf)                            | | |
+|4 | Mon Apr 18    | [regularization](slides/DL_regularization.pdf)                                         |Reading 2 | 9 |
+|4 | Wed Apr 20    | [Data augmentation & generalization](slides/DL_regularization.pdf)                     | | |
 |4 | Fri Apr 22    | [Notebook 4: Logging](notebooks/notebook_4_augmentation_logging.ipynb)                 | | |
-|5 | Mon Apr 25    | [regularization](slides/DL_regularization.pdf)                                         |Homework 2 | 11 |
-|5 | Wed Apr 27    | [adversarial examples](slides/DL_adversarial_examples.pdf)                             | | |
+|5 | Mon Apr 25    | [Visual adversarial examples](slides/DL_adversarial_examples.pdf)                      |Homework 2 | 11 |
+|5 | Wed Apr 27    | Auditory adversarial examples                                                          | | |
 |5 | Fri Apr 29    | [Notebook 5: adversarial examples](notebooks/notebook_5_adversarial_examples.ipynb)    | | |
 |6 | Mon May 02    | Generative adversarial networks (GANS)                                                 |Reading 3 | 9 |
 |6 | Wed May 04    | More GANS                                                                              | | |
 |6 | Fri May 06    | [Notebook 6: GANs](notebooks/notebook_6_gan.ipynb)                                     | | |
-|7 | Mon May 09    | Catch up day                                                                           |Homework 3 | 11 |
-|7 | Wed May 11    | Autoencoders                                                                           | | |
-|7 | Fri May 13    | [Notebook 7: autoencoders](notebooks/)                                                               | | |
-|8 | Mon May 16    | [recurrent nets](slides/DL_recurrent_nets.pdf)                                         |Reading 4 | 9 |
-|8 | Wed May 18    | [LSTMs](slides/DL_recurrent_nets.pdf)                                                  | | |
+|7 | Mon May 09    | Autoencoders                                                                           |Homework 3 | 11 |
+|7 | Wed May 11    | [recurrent nets](slides/DL_recurrent_nets.pdf)                                         | | |
+|7 | Fri May 13    | [Notebook 7: autoencoders](notebooks/notebook_7_autoencoder.ipynb)                     | | |
+|8 | Mon May 16    | [LSTMs](slides/DL_recurrent_nets.pdf)                                                  |Reading 4 | 9 |
+|8 | Wed May 18    | [Attention networks](slides/DL_attention_networks.pdf)                                 | | |
 |8 | Fri May 20    | Notebook 8: recurrent nets                                                             | | |
-|9 | Mon May 23    | [Attention networks](slides/DL_attention_networks.pdf)                                 |Homework 4 | 11 |
+|9 | Mon May 23    | catch up day                                                                           |Homework 4 | 11 |
 |9 | Wed May 25    | [Transformers](slides/DL_transformers.pdf)                                             | | |
 |9 | Fri May 27    | [Reinforcement learning (RL)](slides/DL_deep_reinforcement_learning.pdf)               | | |
 |10| Mon May 30    | [Deep RL](slides/DL_deep_reinforcement_learning.pdf)                                   |Reading 5 | 9 |
@@ -128,12 +131,6 @@ For $10 per month, you also get priority access to GPUs and TPUs.
 [Amazon's SageMaker](https://aws.amazon.com/sagemaker/pricing/) offers hundres of free hours for newbies.
 
 [The CS Department Wilkinson Lab](http://it.eecs.northwestern.edu/info/2015/11/03/info-labs.html) just got 22 new machines that each have a graphics card suitable for deep learning, and should be remote-accessable and running Linux with all the python packages needed for deep learning.
-
-
-
-<a name="slides"></a>
-## Lecture Slides and Notebooks
-[**Back to top**](#top)
 
 
 <a name="readings"></a>
@@ -255,6 +252,7 @@ If you already understand what convolutional networks are, then here are some po
 
 1. [Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images](https://arxiv.org/pdf/1412.1897.pdf): This paper shows just how screwy you can make an image and still have it misclsasified by a "well trained, highly accurate" image recognition deep net.
 
+1. [Effective and Inconspicuous Over-the-air Adversarial Examples with Adaptive Filtering](https://interactiveaudiolab.github.io/assets/papers/oreilly_awasthi_vijayaraghavan_pardo_2021.pdf): Cutting edge research from our very own Patrick O.
 #### Reinforcement Learning
 1. [Reinforcement Learning: An Introduction, Chapters 3 and 6](http://www.incompleteideas.net/book/RLbook2020.pdf): This gives you the basics of what reinforcement learning (RL) is about.
 
