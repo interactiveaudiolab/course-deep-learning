@@ -64,7 +64,7 @@ No additional extra credit beyond the class participation will be provided. No r
 |1 | Tue Mar 29    | [Perceptrons](slides/DL_perceptrons.pdf)                                               | | |
 |1 | Wed Mar 30    | [Gradient descent](slides/DL_gradient_descent.pdf)                                     | | |
 |1 | Fri Apr 01    | [Notebook 1: perceptrons](notebooks/notebook_1_perceptron.ipynb)                       | | |
-|2 | Mon Apr 04    | [Backpropagation of error](slides/DL_gradient_descent.pdf)                         n   |Reading 1 | 9 |
+|2 | Mon Apr 04    | [Backpropagation of error](slides/DL_gradient_descent.pdf)                            |Reading 1 | 9 |
 |2 | Wed Apr 06    | [Multi-layer perceptrons](slides/DL_multilayer_perceptrons.pdf)                        | | |
 |2 | Fri Apr 08    | [Notebook 2: MLP in Pytorch](notebooks/notebook_2_nn.ipynb)                            | | |
 |3 | Mon Apr 11    | Loss functions                                                                         |Homework 1 | 11 |
