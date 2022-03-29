@@ -24,7 +24,9 @@ Zoom link: The default class zoom (find it on canvas)
 
 #### Peer Mentors
 Aldo Aguilar: Office hours Fridays 1:00pm - 3:00pm Mudd 3534
+
 Andreas Bugler: Office hours Mondays and Wednesdays 1:00pm - 2:00pm Mudd 3534
+
 Noah Schaffer: Offic hours Tuesdays 9:00am - 11:00am Mudd 3532
 
 ## Course Description 
@@ -59,7 +61,7 @@ No additional extra credit beyond the class participation will be provided. No r
 ## Course Calendar
 [**Back to top**](#top)
 
-| Week|Day and Date| Topic (tentative)                        |Deliverable         | Points|
+| Week|Day and Date| Topic (tentative)                        |Due today           | Points|
 |----:|------------|------------------------------------------|--------------------|------:|
 |1 | Tue Mar 29    | [Perceptrons](slides/DL_perceptrons.pdf)                                               | | |
 |1 | Wed Mar 30    | [Gradient descent](slides/DL_gradient_descent.pdf)                                     | | |
