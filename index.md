@@ -14,7 +14,7 @@ Fridays: online python notebook walk-throughs
 
 #### Instructor
 [Bryan Pardo](http://bryanpardo.com)
-Office hours TBD
+Office hours Thursdays 9:30am - 11:00am
 Zoom link: The default class zoom (find it on canvas)
 
 #### TA 
@@ -64,7 +64,7 @@ No additional extra credit beyond the class participation will be provided. No r
 |1 | Tue Mar 29    | [Perceptrons](slides/DL_perceptrons.pdf)                                               | | |
 |1 | Wed Mar 30    | [Gradient descent](slides/DL_gradient_descent.pdf)                                     | | |
 |1 | Fri Apr 01    | [Notebook 1: perceptrons](notebooks/notebook_1_perceptron.ipynb)                       | | |
-|2 | Mon Apr 04    | [Backpropagation of error](slides/DL_gradient_descent.pdf)                            |Reading 1 | 9 |
+|2 | Mon Apr 04    | [Backpropagation of error](slides/DL_gradient_descent.pdf)                             |Reading 1 | 9 |
 |2 | Wed Apr 06    | [Multi-layer perceptrons](slides/DL_multilayer_perceptrons.pdf)                        | | |
 |2 | Fri Apr 08    | [Notebook 2: MLP in Pytorch](notebooks/notebook_2_nn.ipynb)                            | | |
 |3 | Mon Apr 11    | Loss functions                                                                         |Homework 1 | 11 |
@@ -85,10 +85,10 @@ No additional extra credit beyond the class participation will be provided. No r
 |8 | Mon May 16    | [LSTMs](slides/DL_recurrent_nets.pdf)                                                  |Reading 4 | 9 |
 |8 | Wed May 18    | [Attention networks](slides/DL_attention_networks.pdf)                                 | | |
 |8 | Fri May 20    | Notebook 8: recurrent nets                                                             | | |
-|9 | Mon May 23    | catch up day                                                                           |Homework 4 | 11 |
-|9 | Wed May 25    | [Transformers](slides/DL_transformers.pdf)                                             | | |
-|9 | Fri May 27    | [Reinforcement learning (RL)](slides/DL_deep_reinforcement_learning.pdf)               | | |
-|10| Mon May 30    | [Deep RL](slides/DL_deep_reinforcement_learning.pdf)                                   |Reading 5 | 9 |
+|9 | Mon May 23    | [Transformers](slides/DL_transformers.pdf)                                             |Homework 4 | 11 |
+|9 | Wed May 25    | [Reinforcement learning (RL)](slides/DL_deep_reinforcement_learning.pdf)               | | |
+|9 | Fri May 27    | [Deep RL](slides/DL_deep_reinforcement_learning.pdf)                                   | | |
+|10| Mon May 30    | NO CLASS, MEMORIAL DAY                                                                 |Reading 5 | 9 |
 |10| Wed Jun 01    | Current research in DL                                                                 | | |
 |10| Fri Jun 03    | Current research in DL                                                                 | | |
 |11| Wed Jun 08    | No final exam, just final reading                                                      |Reading 6 | 9 |
@@ -138,7 +138,7 @@ For $10 per month, you also get priority access to GPUs and TPUs.
 [**Back to top**](#top)
 
 #### The History
-1. [The Organization of Behavior](http://s-f-walker.org.uk/pubsebooks/pdfs/The_Organization_of_Behavior-Donald_O._Hebb.pdf): Hebb's 1949 book that provides a general framework for relating behavior to synaptic organization through the dynamics of neural networks. 
+1. [The Organization of Behavior](https://pure.mpg.de/pubman/item/item_2346268_3/component/file_2346267/Hebb_1949_The_Organization_of_Behavior.pdf): Hebb's 1949 book that provides a general framework for relating behavior to synaptic organization through the dynamics of neural networks. 
 
 1. [The Perceptron](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.335.3398&rep=rep1&type=pdf): This is the 1st neural networks paper, published in 1958. The algorithm won't be obvious, but the thinking is interesting and the conclusions are worth reading.
 
@@ -146,7 +146,7 @@ For $10 per month, you also get priority access to GPUs and TPUs.
 
 #### The basics (1st reading topic)
 
-1. [* Chapter 4 of Machine Learning ](readings/chapter4-ml.pdf): This is Tom Mitchell's book. Historical overview + explanation of backprop of error. It's a good starting point for actually understanding deep nets. **START HERE. IT'S WORTH 2 READINGS**
+1. [* Chapter 4 of Machine Learning ](readings/chapter4-ml.pdf): This is Tom Mitchell's book. Historical overview + explanation of backprop of error. It's a good starting point for actually understanding deep nets. **START HERE. IT'S WORTH 2 READINGS. WHAT THAT MEANS IS...GIVE ME 2 PAGES OF REACTIONS FOR THIS READING AND GET CREDIT FOR 2 READINGS**
 
 1. [Chapter 6 of Deep Learning](http://www.deeplearningbook.org/): Modern intro on deep nets. To me, this is harder to follow than Chapter 4 of Machine Learning, though. Certainly, it's longer. 
 
@@ -154,9 +154,9 @@ For $10 per month, you also get priority access to GPUs and TPUs.
 
 1. [This reading is **NOT** worth points, but...](https://najeebkhan.github.io/blog/VecCal.html)...if you don't know what a gradient, Jacobian or Hessian is, you should read this before you read Chapter 4 of the Deep Learning book.
 
-1. [Chapter 4 of the Deep Learning Book](http://www.deeplearningbook.org/): This covers basics of gradient-based optimization. **Start here**
+1. [Chapter 4 of the Deep Learning Book](http://www.deeplearningbook.org/): This covers basics of gradient-based optimization. **Start here for optimization**
 
-1. [Chapter 8 of the Deep Learning Book](http://www.deeplearningbook.org/): This covers optimization. **This should come 2nd**
+1. [Chapter 8 of the Deep Learning Book](http://www.deeplearningbook.org/): This covers optimization. **This should come 2nd in your optimization reading**
 
 1. [Why Momentum Really Works](http://distill.pub/2017/momentum/): Reading this will help you understand the popular ADAM optimizer better.
 
