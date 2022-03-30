@@ -63,13 +63,13 @@ No additional extra credit beyond the class participation will be provided. No r
 
 | Week|Day and Date| Topic (tentative)                        |Due today           | Points|
 |----:|------------|------------------------------------------|--------------------|------:|
-|1 | Tue Mar 29    | [Perceptrons](slides/DL_perceptrons.pdf)                                               | | |
-|1 | Wed Mar 30    | [Gradient descent](slides/DL_gradient_descent.pdf)                                     | | |
+|1 | Tue Mar 29    | Class intro                                                                            | | |
+|1 | Wed Mar 30    | [Perceptrons](slides/DL_perceptrons.pdf)                                               | | |
 |1 | Fri Apr 01    | [Notebook 1: perceptrons](notebooks/notebook_1_perceptron.ipynb)                       | | |
-|2 | Mon Apr 04    | [Backpropagation of error](slides/DL_gradient_descent.pdf)                             |Reading 1 | 9 |
-|2 | Wed Apr 06    | [Multi-layer perceptrons](slides/DL_multilayer_perceptrons.pdf)                        | | |
+|2 | Mon Apr 04    | [Gradient descent](slides/DL_gradient_descent.pdf)                                     |Reading 1 | 9 |
+|2 | Wed Apr 06    | [Backpropagation of error](slides/DL_gradient_descent.pdf)                             | | |
 |2 | Fri Apr 08    | [Notebook 2: MLP in Pytorch](notebooks/notebook_2_nn.ipynb)                            | | |
-|3 | Mon Apr 11    | Loss functions                                                                         |Homework 1 | 11 |
+|3 | Mon Apr 11    | [Multi-layer perceptrons](slides/DL_multilayer_perceptrons.pdf)                        |Homework 1 | 11 |
 |3 | Wed Apr 13    | [Convolutional nets](slides/DL_convolutional_nets.pdf)                                 | | |
 |3 | Fri Apr 15    | [Notebook 3: CNN in Pytorch](notebooks/notebook_3_image_classification.ipynb)          | | |
 |4 | Mon Apr 18    | [regularization](slides/DL_regularization.pdf)                                         |Reading 2 | 9 |
@@ -90,8 +90,8 @@ No additional extra credit beyond the class participation will be provided. No r
 |9 | Mon May 23    | [Transformers](slides/DL_transformers.pdf)                                             |Homework 4 | 11 |
 |9 | Wed May 25    | [Reinforcement learning (RL)](slides/DL_deep_reinforcement_learning.pdf)               | | |
 |9 | Fri May 27    | [Deep RL](slides/DL_deep_reinforcement_learning.pdf)                                   | | |
-|10| Mon May 30    | NO CLASS, MEMORIAL DAY                                                                 |Reading 5 | 9 |
-|10| Wed Jun 01    | Current research in DL                                                                 | | |
+|10| Mon May 30    | NO CLASS, MEMORIAL DAY                                                                 | | |
+|10| Wed Jun 01    | Current research in DL                                                                 |Reading 5 | 9 |
 |10| Fri Jun 03    | Current research in DL                                                                 | | |
 |11| Wed Jun 08    | No final exam, just final reading                                                      |Reading 6 | 9 |
 
