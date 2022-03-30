@@ -30,7 +30,7 @@ Andreas Bugler: Office hours Mondays and Wednesdays 1:00pm - 2:00pm Mudd 3534
 Noah Schaffer: Office hours Tuesdays 9:00am - 11:00am Mudd 3532
 
 ## Course Description 
-We will study deep learning architectures: perceptrons, multi layer perceptrons, convolutional networks, recurrent neural networks (LSTMs, GRUs), Attention networks and the combination of reinforcement learning with deep learning. Other covered topics include regularization, loss functions and gradient descent. Learning will be in the practical context of implementing networks using these architectures in a modern programming environment: Pytorch. In addition to weekly lab and reading assignments, the final capstone to the course will be a final project where students may apply deep learning to a problem domain of their choice.
+We will study deep learning architectures: perceptrons, multi layer perceptrons, convolutional networks, recurrent neural networks (LSTMs, GRUs), Attention networks and the combination of reinforcement learning with deep learning. Other covered topics include regularization, loss functions and gradient descent. Learning will be in the practical context of implementing networks using these architectures in a modern programming environment: Pytorch. 
 
 ## Course textbook
 The primary text is the [Deep Learning book](http://www.deeplearningbook.org/). This reading will be supplemented by reading key papers in the field.
