@@ -67,7 +67,7 @@ No additional extra credit beyond the class participation will be provided. No r
 |1 | Wed Mar 30    | [Perceptrons](slides/DL_perceptrons.pdf)                                               | | |
 |1 | Fri Apr 01    | [Notebook 1: perceptrons](notebooks/notebook_1_perceptron.ipynb)                       | | |
 |2 | Mon Apr 04    | [Gradient descent](slides/DL_gradient_descent.pdf)                                     |Reading 1 | 9 |
-|2 | Wed Apr 06    | [Backpropagation of error](slides/DL_gradient_descent.pdf)                             | | |
+|2 | Wed Apr 06    | [Backpropagation of error](slides/DL_multilayer_perceptrons.pdf)                       | | |
 |2 | Fri Apr 08    | [Notebook 2: MLP in Pytorch](notebooks/notebook_2_nn.ipynb)                            | | |
 |3 | Mon Apr 11    | [Multi-layer perceptrons](slides/DL_multilayer_perceptrons.pdf)                        |Homework 1 | 11 |
 |3 | Wed Apr 13    | [Convolutional nets](slides/DL_convolutional_nets.pdf)                                 | | |
@@ -94,6 +94,7 @@ No additional extra credit beyond the class participation will be provided. No r
 |10| Wed Jun 01    | Current research in DL                                                                 |Reading 5 | 9 |
 |10| Fri Jun 03    | Current research in DL                                                                 | | |
 |11| Wed Jun 08    | No final exam, just final reading                                                      |Reading 6 | 9 |
+|11| Fri Jun 10    | Optional extra credit reading                                                      |Reading 6 | 9 |
 
 
 
