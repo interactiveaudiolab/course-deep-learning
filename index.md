@@ -87,14 +87,14 @@ No additional extra credit beyond the class participation will be provided. No r
 |8 | Mon May 16    | [LSTMs](slides/DL_recurrent_nets.pdf)                                                  |Reading 4 | 9 |
 |8 | Wed May 18    | [Attention networks](slides/DL_attention_networks.pdf)                                 | | |
 |8 | Fri May 20    | Notebook 8: recurrent nets                                                             | | |
-|9 | Mon May 23    | [Transformers](slides/DL_transformers.pdf)                                             |Homework 4 | 11 |
-|9 | Wed May 25    | [Reinforcement learning (RL)](slides/DL_deep_reinforcement_learning.pdf)               | | |
+|9 | Mon May 23    | [Transformers](slides/DL_transformers.pdf)                                             | |  |
+|9 | Wed May 25    | [Reinforcement learning (RL)](slides/DL_deep_reinforcement_learning.pdf)               |Homework 4 | 11 |
 |9 | Fri May 27    | [Deep RL](slides/DL_deep_reinforcement_learning.pdf)                                   | | |
 |10| Mon May 30    | NO CLASS, MEMORIAL DAY                                                                 | | |
 |10| Wed Jun 01    | Current research in DL                                                                 |Reading 5 | 9 |
 |10| Fri Jun 03    | Current research in DL                                                                 | | |
 |11| Wed Jun 08    | No final exam, just final reading                                                      |Reading 6 | 9 |
-|11| Fri Jun 10    | Optional extra credit reading                                                      |Reading 6 | 9 |
+|11| Fri Jun 10    | Optional extra credit reading                                                      | Extra Credit | 9 |
 
 
 
