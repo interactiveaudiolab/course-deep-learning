@@ -202,6 +202,21 @@ If you already understand what convolutional networks are, then here are some po
 
 1. [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842):The 2015 paper describing the Inception network architecture.
 
+
+#### Adversarial examples 
+1. [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572) : This paper got the ball rolling by pointing out how to make images that look good but are consistently misclassified by trained deepnets.
+
+1. [Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images](https://arxiv.org/pdf/1412.1897.pdf): This paper shows just how screwy you can make an image and still have it misclsasified by a "well trained, highly accurate" image recognition deep net.
+
+1. [Effective and Inconspicuous Over-the-air Adversarial Examples with Adaptive Filtering](https://interactiveaudiolab.github.io/assets/papers/oreilly_awasthi_vijayaraghavan_pardo_2021.pdf): Cutting edge research from our very own Patrick O.
+
+####  Creating GANs
+1. [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661v1.pdf): The paper that introduced GANs. **If you read only one GAN paper, make it this one.** 
+
+1. [2016 Tutorial on Generative Adversarial Networks](https://arxiv.org/pdf/1701.00160.pdf) by one of the creators of the GAN. This one's long, but good.
+
+1. [DCGAN: Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434): This is an end-to-end model. Many papers build on this. **The homework uses the discriminator approach from this paper**
+
 #### Recurrent Networks
 1. [Chapter 10 of Deep Learning](http://www.deeplearningbook.org/): A decent starting point
 
@@ -250,12 +265,6 @@ If you already understand what convolutional networks are, then here are some po
 1. [The Illustrated GPT-2](http://jalammar.github.io/illustrated-gpt2/): A good overview of GPT-2 and its relation to Transformer decoder blocks.
 
 
-#### Adversarial examples 
-1. [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572) : This paper got the ball rolling by pointing out how to make images that look good but are consistently misclassified by trained deepnets.
-
-1. [Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images](https://arxiv.org/pdf/1412.1897.pdf): This paper shows just how screwy you can make an image and still have it misclsasified by a "well trained, highly accurate" image recognition deep net.
-
-1. [Effective and Inconspicuous Over-the-air Adversarial Examples with Adaptive Filtering](https://interactiveaudiolab.github.io/assets/papers/oreilly_awasthi_vijayaraghavan_pardo_2021.pdf): Cutting edge research from our very own Patrick O.
 #### Reinforcement Learning
 1. [Reinforcement Learning: An Introduction, Chapters 3 and 6](http://www.incompleteideas.net/book/RLbook2020.pdf): This gives you the basics of what reinforcement learning (RL) is about.
 
