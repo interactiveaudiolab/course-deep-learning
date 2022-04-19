@@ -71,10 +71,10 @@ No additional extra credit beyond the class participation will be provided. No r
 |2 | Fri Apr 08    | [Notebook 2: MLP in Pytorch](notebooks/notebook_2_nn.ipynb)                            | | |
 |3 | Mon Apr 11    | [Multi-layer perceptrons](slides/DL_multilayer_perceptrons.pdf)                        |Homework 1 | 11 |
 |3 | Wed Apr 13    | [Convolutional nets](slides/DL_convolutional_nets.pdf)                                 | | |
-|3 | Fri Apr 15    | [Notebook 3: CNN in Pytorch](notebooks/notebook_3_image_classification.ipynb)          | | |
+|3 | Fri Apr 15    | [Notebook 3: Image Classification](notebooks/notebook_3_image_classification.ipynb)    | | |
 |4 | Mon Apr 18    | [regularization](slides/DL_regularization.pdf)                                         |Reading 2 | 9 |
 |4 | Wed Apr 20    | [Data augmentation & generalization](slides/DL_regularization.pdf)                     | | |
-|4 | Fri Apr 22    | [Notebook 4: Logging](notebooks/notebook_4_augmentation_logging.ipynb)                 | | |
+|4 | Fri Apr 22    | [Notebook 4: CNNs & Logging](notebooks/notebook_4_augmentation_logging.ipynb)          | | |
 |5 | Mon Apr 25    | [Visual adversarial examples](slides/DL_adversarial_examples.pdf)                      |Homework 2 | 11 |
 |5 | Wed Apr 27    | Auditory adversarial examples                                                          | | |
 |5 | Fri Apr 29    | [Notebook 5: adversarial examples](notebooks/notebook_5_adversarial_examples.ipynb)    | | |
