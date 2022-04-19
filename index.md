@@ -81,11 +81,11 @@ No additional extra credit beyond the class participation will be provided. No r
 |6 | Mon May 02    | Generative adversarial networks (GANS)                                                 |Reading 3 | 9 |
 |6 | Wed May 04    | More GANS                                                                              | | |
 |6 | Fri May 06    | [Notebook 6: GANs](notebooks/notebook_6_gan.ipynb)                                     | | |
-|7 | Mon May 09    | Autoencoders                                                                           |Homework 3 | 11 |
-|7 | Wed May 11    | [recurrent nets](slides/DL_recurrent_nets.pdf)                                         | | |
+|7 | Mon May 09    | Autoencoders                                                                           | |  |
+|7 | Wed May 11    | [recurrent nets](slides/DL_recurrent_nets.pdf)                                         |Homework 3 |11 |
 |7 | Fri May 13    | [Notebook 7: autoencoders](notebooks/notebook_7_autoencoder.ipynb)                     | | |
-|8 | Mon May 16    | [LSTMs](slides/DL_recurrent_nets.pdf)                                                  |Reading 4 | 9 |
-|8 | Wed May 18    | [Attention networks](slides/DL_attention_networks.pdf)                                 | | |
+|8 | Mon May 16    | [LSTMs](slides/DL_recurrent_nets.pdf)                                                  | |  |
+|8 | Wed May 18    | [Attention networks](slides/DL_attention_networks.pdf)                                 |Reading 4 |9 |
 |8 | Fri May 20    | Notebook 8: recurrent nets                                                             | | |
 |9 | Mon May 23    | [Transformers](slides/DL_transformers.pdf)                                             | |  |
 |9 | Wed May 25    | [Reinforcement learning (RL)](slides/DL_deep_reinforcement_learning.pdf)               |Homework 4 | 11 |
