@@ -76,7 +76,7 @@ No additional extra credit beyond the class participation will be provided. No r
 |4 | Wed Apr 20    | [Data augmentation & generalization](slides/DL_regularization.pdf)                     | | |
 |4 | Fri Apr 22    | [Notebook 4: CNNs & Logging](notebooks/notebook_4_augmentation_logging.ipynb)          | | |
 |5 | Mon Apr 25    | [Visual adversarial examples](slides/DL_adversarial_examples.pdf)                      |Homework 2 | 11 |
-|5 | Wed Apr 27    | Auditory adversarial examples                                                          | | |
+|5 | Wed Apr 27    | [Auditory adversarial examples](slides/DL_audio_adversarial.pdf)                       | | |
 |5 | Fri Apr 29    | [Notebook 5: adversarial examples](notebooks/notebook_5_adversarial_examples.ipynb)    | | |
 |6 | Mon May 02    | Generative adversarial networks (GANS)                                                 |Reading 3 | 9 |
 |6 | Wed May 04    | More GANS                                                                              | | |
