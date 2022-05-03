@@ -3,6 +3,7 @@ import copy
 import librosa as li
 import seaborn as sns
 import matplotlib.pyplot as plt
+from typing import Union
 
 from tqdm import tqdm
 
@@ -23,14 +24,15 @@ def play_audiomnist(x):
     return ipd.Audio(x.detach().cpu().numpy().flatten(), rate=16000)  # load a NumPy array
 
 
-def plot_audiomnist(x, y, model):
+def plot_audiomnist(x: torch.Tensor, y: Union[int, torch.Tensor], model: nn.Module):
     """
-    Plot waveform and class scores side-by-side
+    Given an audio waveform, ground-truth label, and a classification model:
+      * plot audio
+      * plot model's prediction for audio (vector of class scores)
 
-    :param x:
-    :param y:
-    :param model:
-    :return:
+    :param x: a tensor holding an audio waveform to classify and plot
+    :param y: an integer or integer tensor holding the ground-truth class label
+    :param model: a classification model for generating predictions
     """
 
     device = x.device  # hold onto original device
@@ -79,14 +81,15 @@ def plot_audiomnist(x, y, model):
     plt.show()
 
 
-def plot_mnist(x, y, model):
+def plot_mnist(x: torch.Tensor, y: Union[int, torch.Tensor], model: nn.Module):
     """
-    Plot grayscale image and class scores side-by-side
+    Given a grayscale image, ground-truth label, and a classification model:
+      * plot image
+      * plot model's prediction for image (vector of class scores)
 
-    :param x:
-    :param y:
-    :param model:
-    :return:
+    :param x: a tensor holding an image to classify and plot
+    :param y: an integer or integer tensor holding the ground-truth class label
+    :param model: a classification model for generating predictions
     """
 
     device = x.device  # hold onto original device
