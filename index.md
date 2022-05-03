@@ -78,8 +78,8 @@ No additional extra credit beyond the class participation will be provided. No r
 |5 | Mon Apr 25    | [Visual adversarial examples](slides/DL_adversarial_examples.pdf)                      |Homework 2 | 11 |
 |5 | Wed Apr 27    | Auditory adversarial examples                                                          | | |
 |5 | Fri Apr 29    | [Notebook 5: adversarial examples](notebooks/notebook_5_adversarial_examples.ipynb)    | | |
-|6 | Mon May 02    | Generative adversarial networks (GANS)                                                 |Reading 3 | 9 |
-|6 | Wed May 04    | More GANS                                                                              | | |
+|6 | Mon May 02    | [Generative adversarial networks (GANS)](slides/DL_GANs.pdf)                           |Reading 3 | 9 |
+|6 | Wed May 04    | [More GANS](slides/DL_GANs.pdf)                                                        | | |
 |6 | Fri May 06    | [Notebook 6: GANs](notebooks/notebook_6_gan.ipynb)                                     | | |
 |7 | Mon May 09    | Autoencoders                                                                           | |  |
 |7 | Wed May 11    | [recurrent nets](slides/DL_recurrent_nets.pdf)                                         |Homework 3 |11 |
@@ -216,6 +216,8 @@ If you already understand what convolutional networks are, then here are some po
 1. [2016 Tutorial on Generative Adversarial Networks](https://arxiv.org/pdf/1701.00160.pdf) by one of the creators of the GAN. This one's long, but good.
 
 1. [DCGAN: Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434): This is an end-to-end model. Many papers build on this. **The homework uses the discriminator approach from this paper**
+
+1. [Generative Adversarial Text to Image Synthesis](http://proceedings.mlr.press/v48/reed16.pdf) This paper describes generating images conditioned on text descriptions. Pretty interesting...
 
 #### Recurrent Networks
 1. [Chapter 10 of Deep Learning](http://www.deeplearningbook.org/): A decent starting point
