@@ -222,7 +222,7 @@ If you already understand what convolutional networks are, then here are some po
 #### Recurrent Networks
 1. [Chapter 10 of Deep Learning](http://www.deeplearningbook.org/): A decent starting point
 
-1. [The Recurrent Neural Networks Tutorial](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/): Another good starting point
+1. [The Recurrent Neural Networks Tutorial](readings/RNN-tutorial-WildML.pdf): This is a 4-part tutorial that starts with an overview and then gets deep into coding up an RNN using Theano (not PyTorch) and has links to GitHub repositories with all the examples. If you just read this for the points, read Part 1. But go deep, if you're interested, and read all the parts. **NOTE** the links to the code repositories work. May of the other hyperlinks don't.
 
 1. [* Extensions of recurrent neural network language model](https://ieeexplore.ieee.org/abstract/document/5947611?casa_token=VaRzW-PbtiEAAAAA:BAXcc2Tb4HL-e2TrTSdao50lxoYMaSkGA0o0iZKC8ojYP-wPHfnWCjlOfj6-coIID8PrBqBE): This covers the RNN language model discussed in class.
 
