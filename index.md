@@ -87,7 +87,7 @@ No additional extra credit beyond the class participation will be provided. No r
 |8 | Mon May 16    | [LSTMs](slides/DL_recurrent_nets.pdf)                                                  | |  |
 |8 | Wed May 18    | [Attention networks](slides/DL_attention_networks.pdf)                                 |Reading 4 |9 |
 |8 | Fri May 20    | [Transformers](slides/DL_transformers.pdf)                                             | | |
-|9 | Mon May 23    | notebook 8: RNNs                                                                       | |  |
+|9 | Mon May 23    | [Notebook 8: RNNs](notebooks/notebook_8_rnn.ipynb)                                     | | |
 |9 | Wed May 25    | [Reinforcement learning (RL)](slides/DL_deep_reinforcement_learning.pdf)               |Reading 5 | 9 |
 |9 | Fri May 27    | [Deep RL](slides/DL_deep_reinforcement_learning.pdf)                                   | | |
 |10| Mon May 30    | NO CLASS, MEMORIAL DAY                                                                 | | |
