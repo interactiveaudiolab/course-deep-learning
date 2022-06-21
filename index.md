@@ -58,11 +58,7 @@ Homework and reading assignments are solo assignments and must be original work.
 Every student gets 3 points. For doing nothing. Therefore, when you look at a homework you think was graded a little low...remember, we already gave you 3 points. That likely makes up for the small thing you wish were graded differently. So maybe let it go? We already gave you the points for that, after all. 
 
 #### Class participation for extra credit
-Students can receive up to 9 points (nearly a full letter grade) of extra credit with class participation. 
-
-*Participation during lecture* There are 30 lectures this term. You will be asked to select 3 lectures for which you will be *on-call*. In your on-call lectures, I will feel free to call on you and will expect that you've done the relevant reading prior to lecture and will be able to engage in meaningful interaction on the lecture topic. Each on-call day will be worth up to 3 points.  
-
-No additional extra credit beyond the class participation will be provided. No requests for extra-extra credit will be considered.
+Students can receive up to 9 points (nearly a full letter grade) of extra credit by submitting reviews of three research papers selected from the course reading list. No additional extra credit beyond this will be provided. No requests for extra-extra credit will be considered.
 
 <a name="calendar"></a>
 ## Course Calendar
