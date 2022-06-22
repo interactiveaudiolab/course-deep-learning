@@ -256,7 +256,7 @@ If you already understand what convolutional networks are, then here are some po
 
 1. [Listen, Attend and Spell](https://arxiv.org/pdf/1508.01211.pdf): Attention is also applied to speech, as per this example.
 
-1. [A Tutorial in TensorFlow](https://github.com/tensorflow/nmt): Ths walks you how to use Tensorflow 1.X to build a neural  machine translation network with attention.
+1. [A Tutorial in TensorFlow](https://github.com/tensorflow/nmt): Ths walks through how to use Tensorflow 1.X to build a neural  machine translation network with attention.
 
 #### Transformer networks (Don't read until you understand attention models)
 1. [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/): A good walkthrough that helps a lot with understanding transformers  ** I'd start with this one to learn about transformers.**
