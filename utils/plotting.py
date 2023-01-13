@@ -51,7 +51,7 @@ def plot_data(data: np.ndarray,
     ax.axis('equal')
     handles, labels = plt.gca().get_legend_handles_labels()
     by_label = dict(zip(labels, handles))
-    plt.legend(by_label.values(), by_label.keys())
+    plt.legend(by_label.values(), by_label.keys(), loc="upper right")
 
     if ax is None:
         plt.show()
