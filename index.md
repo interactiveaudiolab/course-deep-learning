@@ -1,33 +1,30 @@
  <a name="top"></a>
 
-# DEEP LEARNING: Northwestern University CS 396/496 Spring 2022
+# DEEP LEARNING: Northwestern University CS 396/496 Spring 2024
 
 |[**Top**](#top)|  [**Calendar**](#calendar)| [**Links**](#links)| [**Readings**](#readings)|
 
 #### Class Day/Time
- M W F, 10:00am - 10:50am Central Time
+Tuesdays and Thursdays, 9:30am - 10:50am Central Time
 
 #### Loctation
-Mondays: Swift Hall 107 
-Wednesdays: Swift Hall 107 
-Fridays: online python notebook walk-throughs   
+Tech Lecture Room 5
+
 
 #### Instructor
 [Bryan Pardo](http://bryanpardo.com)
-Office hours Thursdays 9:30am - 11:00am
+Office hours TBD
 Zoom link: The default class zoom (find it on canvas)
 
 #### TA 
-[Patrick O'Reilly](https://oreillyp.github.io/)
-Office hours Wednesday 2:00-3:00pm,  Saturday 2:00-3:00pm
+[Hugo Flores Garcia](https://hugofloresgarcia.github.io/)
+Office hours TBD 
 Zoom link: The default class zoom (find it on canvas)
 
 #### Peer Mentors
-Aldo Aguilar: Office hours Fridays 1:00pm - 3:00pm Mudd 3534
-
-Andreas Bugler: Office hours Mondays and Wednesdays 1:00pm - 2:00pm Mudd 3534
-
-Noah Schaffer: Office hours Tuesdays 9:00am - 11:00am Mudd 3532
+Conor Kotwasinski
+Cameron Churchwell 
+Nathan Pruyne
 
 ## Course Description 
 This is a first course in Deep Learning. We will study deep learning architectures: perceptrons, multi-layer perceptrons, convolutional networks, recurrent neural networks (LSTMs, GRUs), attention networks, transformers, autoencoders, and the combination of reinforcement learning with deep learning. Other covered topics include regularization, loss functions and gradient descent. 
@@ -66,38 +63,38 @@ Students can receive up to 9 points (nearly a full letter grade) of extra credit
 
 | Week|Day and Date| Topic (tentative)                        |Due today           | Points|
 |----:|------------|------------------------------------------|--------------------|------:|
-|1 | Tue Mar 29    | Class intro                                                                            | | |
-|1 | Wed Mar 30    | [Perceptrons](slides/DL_perceptrons.pdf)                                               | | |
-|1 | Fri Apr 01    | [Notebook 1: perceptrons](notebooks/notebook_1_perceptron.ipynb)                       | | |
-|2 | Mon Apr 04    | [Gradient descent](slides/DL_gradient_descent.pdf)                                     |Reading 1 | 9 |
-|2 | Wed Apr 06    | [Backpropagation of error](slides/DL_multilayer_perceptrons.pdf)                       | | |
-|2 | Fri Apr 08    | [Notebook 2: MLP in Pytorch](notebooks/notebook_2_nn.ipynb)                            | | |
-|3 | Mon Apr 11    | [Multi-layer perceptrons](slides/DL_multilayer_perceptrons.pdf)                        |Homework 1 | 11 |
-|3 | Wed Apr 13    | [Convolutional nets](slides/DL_convolutional_nets.pdf)                                 | | |
-|3 | Fri Apr 15    | [Notebook 3: Image Classification](notebooks/notebook_3_image_classification.ipynb)    | | |
-|4 | Mon Apr 18    | [regularization](slides/DL_regularization.pdf)                                         |Reading 2 | 9 |
-|4 | Wed Apr 20    | [Data augmentation & generalization](slides/DL_regularization.pdf)                     | | |
-|4 | Fri Apr 22    | [Notebook 4: CNNs & Logging](notebooks/notebook_4_augmentation_logging.ipynb)          | | |
-|5 | Mon Apr 25    | [Visual adversarial examples](slides/DL_adversarial_examples.pdf)                      |Homework 2 | 11 |
-|5 | Wed Apr 27    | [Auditory adversarial examples](slides/DL_audio_adversarial.pdf)                       | | |
-|5 | Fri Apr 29    | [Notebook 5: adversarial examples](notebooks/notebook_5_adversarial_examples.ipynb)    | | |
-|6 | Mon May 02    | [Generative adversarial networks (GANS)](slides/DL_GANs.pdf)                           |Reading 3 | 9 |
-|6 | Wed May 04    | [More GANS](slides/DL_GANs.pdf)                                                        | | |
-|6 | Fri May 06    | [Notebook 6: GANs](notebooks/notebook_6_gan.ipynb)                                     | | |
-|7 | Mon May 09    | [Unsupervised methods](slides/DL_unsupervised_methods.pdf)                             | | |
-|7 | Wed May 11    | [recurrent nets](slides/DL_recurrent_nets.pdf)                                         |Homework 3 |11 |
-|7 | Fri May 13    | [Notebook 7: autoencoders](notebooks/notebook_7_autoencoder.ipynb)                     | | |
-|8 | Mon May 16    | [LSTMs](slides/DL_recurrent_nets.pdf)                                                  | |  |
-|8 | Wed May 18    | [Attention networks](slides/DL_attention_networks.pdf)                                 |Reading 4 |9 |
-|8 | Fri May 20    | [Transformers](slides/DL_transformers.pdf)                                             | | |
-|9 | Mon May 23    | [Notebook 8: RNNs](notebooks/notebook_8_rnn.ipynb)                                     | | |
-|9 | Wed May 25    | [Reinforcement learning (RL)](slides/DL_deep_reinforcement_learning.pdf)               |Reading 5 | 9 |
-|9 | Fri May 27    | [Deep RL](slides/DL_deep_reinforcement_learning.pdf)                                   | | |
-|10| Mon May 30    | NO CLASS, MEMORIAL DAY                                                                 | | |
-|10| Wed Jun 01    | Current research in DL                                                                 |Homework 4 | 11 |
-|10| Fri Jun 03    | Current research in DL                                                                 | | |
-|11| Wed Jun 08    | No final exam, just final reading                                                      |Reading 6 | 9 |
-|11| Fri Jun 10    | Optional extra credit reading                                                      | Extra Credit | 9 |
+|1 | Tue Mar 26    | Class intro                                                                            | | |
+|1 | Thu Mar 28    | [Perceptrons](slides/DL_perceptrons.pdf)                                               | | |
+|1 | -             | [Notebook 1: perceptrons](notebooks/notebook_1_perceptron.ipynb)                       | | |
+|2 | Tue Apr 02    | [Gradient descent](slides/DL_gradient_descent.pdf)                                     |Reading 1 | 8 |
+|2 | Thu Apr 04    | [Backpropagation of error](slides/DL_multilayer_perceptrons.pdf)                       | | |
+|2 | -             | [Notebook 2: MLP in Pytorch](notebooks/notebook_2_nn.ipynb)                            | | |
+|3 | Tue Apr 9     | [Multi-layer perceptrons](slides/DL_multilayer_perceptrons.pdf)                        |Homework 1 | 13 |
+|3 | Thu Apr 11    | [Convolutional nets](slides/DL_convolutional_nets.pdf)                                 | | |
+|3 | -             | [Notebook 3: Image Classification](notebooks/notebook_3_image_classification.ipynb)    | | |
+|4 | Tue Apr 16    | [regularization](slides/DL_regularization.pdf)                                         |Reading 2 | 8 |
+|4 | Thu Apr 18    | [Data augmentation & generalization](slides/DL_regularization.pdf)                     | | |
+|4 | -             | [Notebook 4: CNNs & Logging](notebooks/notebook_4_augmentation_logging.ipynb)          | | |
+|5 | Tue Apr 23    | [Visual adversarial examples](slides/DL_adversarial_examples.pdf)                      |Homework 2 | 13 |
+|5 | Thu Apr 25    | [Auditory adversarial examples](slides/DL_audio_adversarial.pdf)                       | | |
+|5 | -             | [Notebook 5: adversarial examples](notebooks/notebook_5_adversarial_examples.ipynb)    | | |
+|6 | Tue Apr 30    | [Generative adversarial networks (GANS)](slides/DL_GANs.pdf)                           |Reading 3 | 8 |
+|6 | Thu May 02    | [More GANS](slides/DL_GANs.pdf)                                                        | | |
+|6 | -             | [Notebook 6: GANs](notebooks/notebook_6_gan.ipynb)                                     | | |
+|7 | Tue May 07    | [Unsupervised methods](slides/DL_unsupervised_methods.pdf)                             | | |
+|7 | Thu May 09    | [recurrent nets](slides/DL_recurrent_nets.pdf)                                         |Homework 3 |13 |
+|7 | -             | [Notebook 7: autoencoders](notebooks/notebook_7_autoencoder.ipynb)                     | | |
+|8 | Tue May 14    | [LSTMs](slides/DL_recurrent_nets.pdf)                                                  | |  |
+|8 | Thu May 16    | [Attention networks](slides/DL_attention_networks.pdf)                                 |Reading 4 | 8 |
+|8 | -             | [Transformers](slides/DL_transformers.pdf)                                             | | |
+|9 | Tue May 21    | [Notebook 8: RNNs](notebooks/notebook_8_rnn.ipynb)                                     | | |
+|9 | Thu May 23    | [Reinforcement learning (RL)](slides/DL_deep_reinforcement_learning.pdf)               |Reading 5 | 8 |
+|9 | -             | [Deep RL](slides/DL_deep_reinforcement_learning.pdf)                                   | | |
+|10| Tue May 28    | Current research in DL                                                                 | | |
+|10| Thu May 30    | Current research in DL                                                                 |Homework 4 | 13 |
+|10| -             |                                                                                        | | |
+|11| Tue Jun 04    | No final exam, just final reading due                                                  |Reading 6 | 8 |
+|11| -             | Optional extra credit reading (add 1 reading to Reading 6)                             | Extra Credit | 4 |
 
 
 
