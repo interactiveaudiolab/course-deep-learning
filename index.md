@@ -47,15 +47,13 @@ Please use [CampusWire](https://campuswire.com) for class-related questions.
 Assignments must be submitted on the due date by the time specified on Canvas. If you are worried you can't finish on time, upload a safety submission an hour early with what you have. I will grade the most recent item submitted before the deadline. Late submissions will not be graded.
 
 #### Grading Policy
-You can earn up to 110 points. You will be graded on a 100 point scale (e.g. 93 to 100 = A, 90-92 = A-, 87-89 = B+, 83-86 = B, 80-82 = B-...and so on). 
+You will be graded on a 100 point scale (e.g. 93 to 100 = A, 90-92 = A-, 87-89 = B+, 83-86 = B, 80-82 = B-...and so on). 
 
 Homework and reading assignments are solo assignments and must be original work.  
 
-#### Free points for doing nothing at all 
-Every student gets 3 points. For doing nothing. Therefore, when you look at a homework you think was graded a little low...remember, we already gave you 3 points. That likely makes up for the small thing you wish were graded differently. So maybe let it go? We already gave you the points for that, after all. 
+#### Extra Credit
+TBD
 
-#### Class participation for extra credit
-Students can receive up to 9 points (nearly a full letter grade) of extra credit by submitting reviews of three research papers selected from the course reading list. No additional extra credit beyond this will be provided. No requests for extra-extra credit will be considered.
 
 <a name="calendar"></a>
 ## Course Calendar
