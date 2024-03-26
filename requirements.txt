@@ -9,6 +9,6 @@ ipython >= 7.0
 ipykernel
 tqdm
 librosa <= 0.8.1
-numpy <= 1.21
+numpy
 seaborn
 torchsummary
