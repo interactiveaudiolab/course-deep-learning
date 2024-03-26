@@ -61,10 +61,10 @@ TBD
 
 | Week|Day and Date| Topic (tentative)                        |Due today           | Points|
 |----:|------------|------------------------------------------|--------------------|------:|
-|1 | Tue Mar 26    | Class intro                                                                            | | |
+|1 | Tue Mar 26    | No class: Northwestern runs Monday classes on Tuesday                                  | | |
 |1 | Thu Mar 28    | [Perceptrons](slides/DL_perceptrons.pdf)                                               | | |
 |1 | -             | [Notebook 1: perceptrons](notebooks/notebook_1_perceptron.ipynb)                       | | |
-|2 | Tue Apr 02    | [Gradient descent](slides/DL_gradient_descent.pdf)                                     |Reading 1 | 8 |
+|2 | Tue Apr 02    | [Gradient descent](slides/DL_gradient_descent.pdf)                                     | Reading 1 | 8 | 
 |2 | Thu Apr 04    | [Backpropagation of error](slides/DL_multilayer_perceptrons.pdf)                       | | |
 |2 | -             | [Notebook 2: MLP in Pytorch](notebooks/notebook_2_nn.ipynb)                            | | |
 |3 | Tue Apr 9     | [Multi-layer perceptrons](slides/DL_multilayer_perceptrons.pdf)                        |Homework 1 | 13 |
