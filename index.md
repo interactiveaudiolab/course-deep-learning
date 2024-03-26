@@ -13,18 +13,18 @@ Tech Lecture Room 5
 
 #### Instructor
 [Bryan Pardo](http://bryanpardo.com)
-Office hours TBD
-Zoom link: The default class zoom (find it on canvas)
-
+Office hours 3pm - 4:30pm Monday Mudd 3115
 #### TA 
-[Hugo Flores Garcia](https://hugofloresgarcia.github.io/)
-Office hours TBD 
-Zoom link: The default class zoom (find it on canvas)
+Hugo Flores Garcia: office hours in Mudd 3532 Tuesday 1pm-2pm, Thursday 1pm - 2pm
+
+Weijan Li: office hours on zoom MONDAY 3pm - 5pm 
 
 #### Peer Mentors
-Conor Kotwasinski
-Cameron Churchwell 
-Nathan Pruyne
+Conor Kotwasinski: office hours in Mudd 3532 Mondays 5-6pm
+
+Cameron Churchwell: office hours  on zoom Tuesday 1pm - 2pm and in Mudd 3532 Wednesday 9am - 10am, 
+
+Nathan Pruyne: office hours in Mudd 3532 Thursday 6pm - 8pm
 
 ## Course Description 
 This is a first course in Deep Learning. We will study deep learning architectures: perceptrons, multi-layer perceptrons, convolutional networks, recurrent neural networks (LSTMs, GRUs), attention networks, transformers, autoencoders, and the combination of reinforcement learning with deep learning. Other covered topics include regularization, loss functions and gradient descent. 
