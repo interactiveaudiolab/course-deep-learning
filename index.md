@@ -17,12 +17,12 @@ Office hours 3pm - 4:30pm Monday Mudd 3115
 #### TA 
 Hugo Flores Garcia: office hours in Mudd 3532 Tuesday 1pm-2pm, Thursday 1pm - 2pm
 
-Weijan Li: office hours on zoom MONDAY 3pm - 5pm 
+Weijan Li: office hours on zoom Monday 3pm - 5pm 
 
 #### Peer Mentors
-Conor Kotwasinski: office hours in Mudd 3532 Mondays 5-6pm
+Conor Kotwasinski: office hours in Mudd 3532 Monday 5-6pm
 
-Cameron Churchwell: office hours  on zoom Tuesday 1pm - 2pm and in Mudd 3532 Wednesday 9am - 10am, 
+Cameron Churchwell: office hours on zoom Tuesday 1pm - 2pm, in Mudd 3532 Wednesday 9am - 10am
 
 Nathan Pruyne: office hours in Mudd 3532 Thursday 6pm - 8pm
 
