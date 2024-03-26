@@ -52,7 +52,7 @@ You will be graded on a 100 point scale (e.g. 93 to 100 = A, 90-92 = A-, 87-89 =
 Homework and reading assignments are solo assignments and must be original work.  
 
 #### Extra Credit
-TBD
+You can earn up to 8 points of extra credit in the final reading example
 
 
 <a name="calendar"></a>
@@ -67,20 +67,20 @@ TBD
 |2 | Tue Apr 02    | [Gradient descent](slides/DL_gradient_descent.pdf)                                     | Reading 1 | 8 | 
 |2 | Thu Apr 04    | [Backpropagation of error](slides/DL_multilayer_perceptrons.pdf)                       | | |
 |2 | -             | [Notebook 2: MLP in Pytorch](notebooks/notebook_2_nn.ipynb)                            | | |
-|3 | Tue Apr 9     | [Multi-layer perceptrons](slides/DL_multilayer_perceptrons.pdf)                        |Homework 1 | 13 |
+|3 | Tue Apr 9     | [Multi-layer perceptrons](slides/DL_multilayer_perceptrons.pdf)                        |Homework 1 | 15 |
 |3 | Thu Apr 11    | [Convolutional nets](slides/DL_convolutional_nets.pdf)                                 | | |
 |3 | -             | [Notebook 3: Image Classification](notebooks/notebook_3_image_classification.ipynb)    | | |
 |4 | Tue Apr 16    | [regularization](slides/DL_regularization.pdf)                                         |Reading 2 | 8 |
 |4 | Thu Apr 18    | [Data augmentation & generalization](slides/DL_regularization.pdf)                     | | |
 |4 | -             | [Notebook 4: CNNs & Logging](notebooks/notebook_4_augmentation_logging.ipynb)          | | |
-|5 | Tue Apr 23    | [Visual adversarial examples](slides/DL_adversarial_examples.pdf)                      |Homework 2 | 13 |
+|5 | Tue Apr 23    | [Visual adversarial examples](slides/DL_adversarial_examples.pdf)                      |Homework 2 | 15 |
 |5 | Thu Apr 25    | [Auditory adversarial examples](slides/DL_audio_adversarial.pdf)                       | | |
 |5 | -             | [Notebook 5: adversarial examples](notebooks/notebook_5_adversarial_examples.ipynb)    | | |
 |6 | Tue Apr 30    | [Generative adversarial networks (GANS)](slides/DL_GANs.pdf)                           |Reading 3 | 8 |
 |6 | Thu May 02    | [More GANS](slides/DL_GANs.pdf)                                                        | | |
 |6 | -             | [Notebook 6: GANs](notebooks/notebook_6_gan.ipynb)                                     | | |
 |7 | Tue May 07    | [Unsupervised methods](slides/DL_unsupervised_methods.pdf)                             | | |
-|7 | Thu May 09    | [recurrent nets](slides/DL_recurrent_nets.pdf)                                         |Homework 3 |13 |
+|7 | Thu May 09    | [recurrent nets](slides/DL_recurrent_nets.pdf)                                         |Homework 3 |15 |
 |7 | -             | [Notebook 7: autoencoders](notebooks/notebook_7_autoencoder.ipynb)                     | | |
 |8 | Tue May 14    | [LSTMs](slides/DL_recurrent_nets.pdf)                                                  | |  |
 |8 | Thu May 16    | [Attention networks](slides/DL_attention_networks.pdf)                                 |Reading 4 | 8 |
@@ -89,10 +89,9 @@ TBD
 |9 | Thu May 23    | [Reinforcement learning (RL)](slides/DL_deep_reinforcement_learning.pdf)               |Reading 5 | 8 |
 |9 | -             | [Deep RL](slides/DL_deep_reinforcement_learning.pdf)                                   | | |
 |10| Tue May 28    | Current research in DL                                                                 | | |
-|10| Thu May 30    | Current research in DL                                                                 |Homework 4 | 13 |
+|10| Thu May 30    | Current research in DL                                                                 |Homework 4 | 15 |
 |10| -             |                                                                                        | | |
-|11| Tue Jun 04    | No final exam, just final reading due                                                  |Reading 6 | 8 |
-|11| -             | Optional extra credit reading (add 1 reading to Reading 6)                             | Extra Credit | 4 |
+|11| Tue Jun 04    | No final exam, just extra credit reading                                               | Extra Credit Reading 6 | 8 |
 
 
 
