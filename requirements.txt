@@ -8,7 +8,7 @@ tensorboard
 ipython >= 7.0
 ipykernel
 tqdm
-librosa <= 0.8.1
+librosa 
 numpy
 seaborn
 torchsummary
