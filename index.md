@@ -12,12 +12,12 @@ Tech Lecture Room 5
 
 
 #### Instructor
-[Bryan Pardo](http://bryanpardo.com)
-Office hours 3pm - 4:30pm Monday Mudd 3115
+[Bryan Pardo](http://bryanpardo.com): Office hours 3pm - 4:30pm Monday Mudd 3115
+
 #### TA 
 Hugo Flores Garcia: office hours in Mudd 3532 Tuesday 1pm-2pm, Thursday 1pm - 2pm
 
-Weijan Li: office hours on zoom Monday 3pm - 5pm 
+Weijan Li: office hours at [this zoom link](https://northwestern.zoom.us/j/97477504815) Monday 3pm - 5pm 
 
 #### Peer Mentors
 Conor Kotwasinski: office hours in Mudd 3532 Monday 5-6pm
@@ -25,6 +25,12 @@ Conor Kotwasinski: office hours in Mudd 3532 Monday 5-6pm
 Cameron Churchwell: office hours on zoom Tuesday 1pm - 2pm, in Mudd 3532 Wednesday 9am - 10am
 
 Nathan Pruyne: office hours in Mudd 3532 Thursday 6pm - 8pm
+
+Ben Ferreira: office hours TBD
+
+Finn Wintz: office hours TBD
+
+
 
 ## Course Description 
 This is a first course in Deep Learning. We will study deep learning architectures: perceptrons, multi-layer perceptrons, convolutional networks, recurrent neural networks (LSTMs, GRUs), attention networks, transformers, autoencoders, and the combination of reinforcement learning with deep learning. Other covered topics include regularization, loss functions and gradient descent. 
