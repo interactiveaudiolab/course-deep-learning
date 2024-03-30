@@ -12,7 +12,7 @@ Tech Lecture Room 5
 
 
 #### Instructor
-[Bryan Pardo](http://bryanpardo.com): Office hours 3pm - 4:30pm Monday Mudd 3115
+[Bryan Pardo](http://bryanpardo.com): Office hours 1pm - 2:30pm Tuesday Mudd 3115
 
 #### TA 
 Hugo Flores Garcia: office hours in Mudd 3532 Tuesday 1pm-2pm, Thursday 1pm - 2pm
