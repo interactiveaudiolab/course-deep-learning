@@ -22,7 +22,7 @@ Weijan Li: office hours at [this zoom link](https://northwestern.zoom.us/j/97477
 #### Peer Mentors
 Conor Kotwasinski: office hours in Mudd 3532 Monday 5-6pm and in Mudd 3108 on Wednesday 3 - 4pm
 
-Cameron Churchwell: office hours on zoom Tuesday 1pm - 2pm at [this zoom link](https://northwestern.zoom.us/j/3883785036?pwd=S0pxYWgzUGZ2d1p4ZEZGMnl0SG80dz09) with Passcode 3NyxY5, also in Mudd 3532 Wednesday 9am - 10am
+Cameron Churchwell: office hours on zoom Tuesday 1pm - 2pm at [this zoom link](https://northwestern.zoom.us/j/3883785036?pwd=S0pxYWgzUGZ2d1p4ZEZGMnl0SG80dz09), also in Mudd 3532 Wednesday 9am - 10am
 
 Nathan Pruyne: office hours in Mudd 3532 Thursday 6pm - 8pm
 
