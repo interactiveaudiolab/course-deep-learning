@@ -12,7 +12,7 @@ Tech Lecture Room 5
 
 
 #### Instructor
-[Bryan Pardo](http://bryanpardo.com): Office hours 1pm - 2:30pm Tuesday Mudd 3115
+[Bryan Pardo](http://bryanpardo.com): Office hours 3pm - 5pm Tuesday Mudd 3115
 
 #### TA 
 Hugo Flores Garcia: office hours in Mudd 3532 Tuesday 1pm-2pm, Thursday 1pm - 2pm
@@ -20,7 +20,7 @@ Hugo Flores Garcia: office hours in Mudd 3532 Tuesday 1pm-2pm, Thursday 1pm - 2p
 Weijan Li: office hours at [this zoom link](https://northwestern.zoom.us/j/97477504815) Monday 3pm - 5pm 
 
 #### Peer Mentors
-Conor Kotwasinski: office hours in Mudd 3532 Monday 5-6pm
+Conor Kotwasinski: office hours in Mudd 3532 Monday 5-6pm and in Mudd 3108 on Wednesday 3 - 4pm
 
 Cameron Churchwell: office hours on zoom Tuesday 1pm - 2pm, in Mudd 3532 Wednesday 9am - 10am
 
