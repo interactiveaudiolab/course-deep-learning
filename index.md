@@ -26,10 +26,9 @@ Cameron Churchwell: office hours on zoom Tuesday 1pm - 2pm at [this zoom link](h
 
 Nathan Pruyne: office hours in Mudd 3532 Thursday 6pm - 8pm
 
+Finn Wintz: office hours on zoom 4-5pm CT on Wednesday and Thursday at [this zoom link](https://northwestern.zoom.us/j/2092202714)
+
 Ben Ferreira: office hours TBD
-
-Finn Wintz: office hours TBD
-
 
 
 ## Course Description 
