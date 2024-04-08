@@ -28,7 +28,7 @@ Nathan Pruyne: office hours in Mudd 3532 Thursday 6pm - 8pm
 
 Finn Wintz: office hours on zoom 4-5pm CT on Wednesday and Thursday at [this zoom link](https://northwestern.zoom.us/j/2092202714)
 
-Ben Ferreira: office hours TBD
+Ben Ferreira: office hours on zoom 1-3pm CT on Wednesday at [this zoom link](https://northwestern.zoom.us/j/95885283343)
 
 
 ## Course Description 
