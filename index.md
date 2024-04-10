@@ -11,24 +11,22 @@ Tuesdays and Thursdays, 9:30am - 10:50am Central Time
 Tech Lecture Room 5
 
 
-#### Instructor
-[Bryan Pardo](http://bryanpardo.com): Office hours 3pm - 5pm Tuesday Mudd 3115
+#### Instructors
+Professor: [Bryan Pardo](http://bryanpardo.com)
 
-#### TA 
-Hugo Flores Garcia: office hours in Mudd 3532 Tuesday 1pm-2pm, Thursday 1pm - 2pm
+TAs:  Hugo Flores Garcia, Weijan Li
 
-Weijan Li: office hours at [this zoom link](https://northwestern.zoom.us/j/97477504815) Monday 3pm - 5pm 
+Peer Mentors: Conor Kotwasinski, Cameron Churchwell, Nathan Pruyne, Finn Wintz, Ben Ferreira
 
-#### Peer Mentors
-Conor Kotwasinski: office hours in Mudd 3532 Monday 5-6pm and in Mudd 3108 on Wednesday 3 - 4pm
+#### Office hours
+Monday: Weijan Li 3-5pm on [Weijan's zoom link](https://northwestern.zoom.us/j/97477504815), Conor Kotwasinski 5-6pm in Mudd 3532
 
-Cameron Churchwell: office hours on zoom Tuesday 1pm - 2pm at [this zoom link](https://northwestern.zoom.us/j/3883785036?pwd=S0pxYWgzUGZ2d1p4ZEZGMnl0SG80dz09), also in Mudd 3532 Wednesday 9am - 10am
+Tuesday:  Hugo Flores Garcia 1-2pm in Mudd 3532, Cameron Churchwell 1-2pm on  [Cameron's zoom link](https://northwestern.zoom.us/j/3883785036?pwd=S0pxYWgzUGZ2d1p4ZEZGMnl0SG80dz09), Bryan Pardo 3-5pm in Mudd 3115
 
-Nathan Pruyne: office hours in Mudd 3532 Thursday 6pm - 8pm
+Wednesday:  Cameron Churchwell 9-10am in Mudd 3532, Ben Ferreira 1-3pm on [Ben's zoom link](https://northwestern.zoom.us/j/95885283343), Conor Kotwasinsky 3 - 4pm in Mudd 3108, Finn Wintz 4-5pm on [Finn's zoom link](https://northwestern.zoom.us/j/2092202714)
 
-Finn Wintz: office hours on zoom 4-5pm CT on Wednesday and Thursday at [this zoom link](https://northwestern.zoom.us/j/2092202714)
+Thursday: Finn Wintz 4-5pm on [Finn's zoom link](https://northwestern.zoom.us/j/2092202714),  Nathan Pruyne 6pm - 8pm in Mudd 3532
 
-Ben Ferreira: office hours on zoom 1-3pm CT on Wednesday at [this zoom link](https://northwestern.zoom.us/j/95885283343)
 
 
 ## Course Description 
