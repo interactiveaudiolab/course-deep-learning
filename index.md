@@ -76,11 +76,11 @@ You can earn up to 8 points of extra credit in the final reading example
 |4 | Tue Apr 16    | [regularization](slides/DL_regularization.pdf)                                         | Reading 2 | 8 |
 |4 | Thu Apr 18    | [Data augmentation & generalization](slides/DL_regularization.pdf)                     | | |
 |4 | -             | [Notebook 4: CNNs & Logging](notebooks/notebook_4_augmentation_logging.ipynb)          | | |
-|5 | Tue Apr 23    | [Visual adversarial examples](slides/DL_adversarial_examples.pdf)                      | Homework 2 | 15 |
-|5 | Thu Apr 25    | [Auditory adversarial examples](slides/DL_audio_adversarial.pdf)                       | | |
+|5 | Tue Apr 23    | [Visual adversarial examples](slides/DL_adversarial_examples.pdf)                      | | |
+|5 | Thu Apr 25    | [Auditory adversarial examples](slides/DL_audio_adversarial.pdf)                       | Homework 2| 15 |
 |5 | -             | [Notebook 5: adversarial examples](notebooks/notebook_5_adversarial_examples.ipynb)    | | |
-|6 | Tue Apr 30    | [Generative adversarial networks (GANS)](slides/DL_GANs.pdf)                           | Reading 3 | 8 |
-|6 | Thu May 02    | [More GANS](slides/DL_GANs.pdf)                                                        | | |
+|6 | Tue Apr 30    | [Generative adversarial networks (GANS)](slides/DL_GANs.pdf)                           | | |
+|6 | Thu May 02    | [More GANS](slides/DL_GANs.pdf)                                                        | Reading 3 | 8 |
 |6 | -             | [Notebook 6: GANs](notebooks/notebook_6_gan.ipynb)                                     | | |
 |7 | Tue May 07    | [Unsupervised methods](slides/DL_unsupervised_methods.pdf)                             | | |
 |7 | Thu May 09    | [recurrent nets](slides/DL_recurrent_nets.pdf)                                         | Homework 3 |15 |
