@@ -312,7 +312,7 @@ class PsychoacousticMasker:
             )
         )
 
-        return psd_maskers, masker_idx
+        return psd_maskers, masker_idx.to(psd_maskers.device)
 
     def filter_maskers(self,
                        maskers: torch.Tensor,
