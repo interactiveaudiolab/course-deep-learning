@@ -145,7 +145,7 @@ For $10 per month, you also get priority access to GPUs and TPUs.
 
 1. [The Perceptron](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.335.3398&rep=rep1&type=pdf): This is the 1st neural networks paper, published in 1958. The algorithm won't be obvious, but the thinking is interesting and the conclusions are worth reading.
 
-1. [The Perceptron: A perceiving and recognizing automoton](https://blogs.umass.edu/brain-wars/files/2016/03/rosenblatt-1957.pdf): This one is an earlier paper by Rosenblatt that is, perhaps, even more historical than the 1958 paper and a bit easer for an engineer to follow, I think.
+1. [The Perceptron: A perceiving and recognizing automoton](https://bpb-us-e2.wpmucdn.com/websites.umass.edu/dist/a/27637/files/2016/03/rosenblatt-1957.pdf): This one is an earlier paper by Rosenblatt that is, perhaps, even more historical than the 1958 paper and a bit easer for an engineer to follow, I think.
 
 #### The basics (1st reading topic)
 
