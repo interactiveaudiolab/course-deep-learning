@@ -249,7 +249,7 @@ If you already understand what convolutional networks are, then here are some po
 
 1. [Massive Exploration of Neural Machine Translation Architectures](https://arxiv.org/pdf/1703.03906.pdf): A 2017 paper that settles the questions about which architecture is best for doing translation....except that the Transformer model came out that same year and upended everything. Still, a good overview of the pre-transformer state-of-the-art.
 
-1. [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://www.jmlr.org/proceedings/papers/v37/xuc15.pdf): Attention started with text, but is now applied to images. Here's an example.
+1. [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044): Attention started with text, but is now applied to images. Here's an example.
 
 1. [Listen, Attend and Spell](https://arxiv.org/pdf/1508.01211.pdf): Attention is also applied to speech, as per this example.
 
