@@ -25,7 +25,7 @@ Tuesday:  Hugo Flores Garcia 1-2pm in Mudd 3532, Cameron Churchwell 1-2pm on  [C
 
 Wednesday:  Cameron Churchwell 9-10am in Mudd 3532, Ben Ferreira 1-3pm on [Ben's zoom link](https://northwestern.zoom.us/j/95885283343), Conor Kotwasinsky 3 - 4pm in Mudd 3108, Finn Wintz 4-5pm on [Finn's zoom link](https://northwestern.zoom.us/j/2092202714)
 
-Thursday: Finn Wintz 4-5pm on [Finn's zoom link](https://northwestern.zoom.us/j/2092202714),  Nathan Pruyne 6pm - 8pm in Mudd 3532
+Thursday: Finn Wintz 4-5pm on [Finn's zoom link](https://northwestern.zoom.us/j/2092202714),  Nathan Pruyne 6pm - 8pm in Mudd 3532, Hugo Flores Garcia 1-2pm in Mudd 3532
 
 
 
