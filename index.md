@@ -270,7 +270,9 @@ If you already understand what convolutional networks are, then here are some po
 #### Reinforcement Learning
 1. [Reinforcement Learning: An Introduction, Chapters 3 and 6](http://www.incompleteideas.net/book/RLbook2020.pdf): This gives you the basics of what reinforcement learning (RL) is about.
 
-1. [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602): A key paper that showed how reinforcement learning can be used with deep nets.
+1. [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602): A key paper that showed how reinforcement learning can be used with deep nets. This is discussed in class.
+
+1. [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/): This is the blog we base part of Homework 4 on. Reading this is a very efficient use of your time, since you can count it as a reading AND you have to read it for the homework, anyhow.
 
 1. [Mastering the game of Go with deep neural networks and tree search](http://airesearch.com/wp-content/uploads/2016/01/deepmind-mastering-go.pdf): A famous paper that showed how RL + Deepnets = the best Go player in existence at the time.
 
