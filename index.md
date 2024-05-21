@@ -86,13 +86,13 @@ You can earn up to 8 points of extra credit in the final reading example
 |7 | Thu May 09    | [recurrent nets](slides/DL_recurrent_nets.pdf)                                         | Homework 3 |15 |
 |7 | -             | [Notebook 7: autoencoders](notebooks/notebook_7_autoencoder.ipynb)                     | | |
 |8 | Tue May 14    | [LSTMs](slides/DL_recurrent_nets.pdf)                                                  | | |
-|8 | Thu May 16    | [Attention networks](slides/DL_attention_networks.pdf)                                 | Reading 4 | 8 |
+|8 | Thu May 16    | [Deep RL](slides/DL_deep_reinforcement_learning.pdf)                                   | Reading 4 | 8 |
 |8 | -             | [Notebook 8: RNNs](notebooks/notebook_8_rnn.ipynb)                                     | | |
-|9 | Tue May 21    | [Transformers](slides/DL_transformers.pdf)                                             | | |
-|9 | Thu May 23    | [Reinforcement learning (RL)](slides/DL_deep_reinforcement_learning.pdf)               | Reading 5 | 8 |
-|9 | -             | [Deep RL](slides/DL_deep_reinforcement_learning.pdf)                                   | | |
-|10| Tue May 28    | Current research in DL                                                                 | Homework 4 | 15 |
-|10| Thu May 30    | Current research in DL                                                                 | | |
+|9 | Tue May 21    | [Reinforcement learning (RL)](slides/DL_deep_reinforcement_learning.pdf)               | | |
+|9 | Thu May 23    | [Pong with Reinforcement learning (RL)](slides/GM_deep_RL_2_policy_gradients.pdf)      | Reading 5 | 8 |
+|9 | -             | [Attention networks](slides/DL_attention_networks.pdf)                                 | | |
+|10| Tue May 28    | [Transformers](slides/DL_transformers.pdf)                                             | | |
+|10| Thu May 30    | Current research in DL                                                                 | Homework 4 | 15 | 
 |10| -             |                                                                                        | | |
 |11| Tue Jun 04    | No final exam, just extra credit reading                                               | Extra Credit Reading 6 | 8 |
 
