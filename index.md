@@ -171,7 +171,7 @@ For $10 per month, you also get priority access to GPUs and TPUs.
 
 
 #### Convolutional Networks (3rd reading topic)
-1. [Generalization and Network Design Strategies](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.476.479&rep=rep1&type=pdf): The original 1989 paper where LeCun describes Convolutional networks. **Start here.**
+1. [Generalization and Network Design Strategies](http://yann.lecun.com/exdb/publis/pdf/lecun-89.pdf): The original 1989 paper where LeCun describes Convolutional networks. **Start here.**
 
 1. [Chapter 9 of Deep Learning: Convolutional Networks](http://www.deeplearningbook.org/). 
 
