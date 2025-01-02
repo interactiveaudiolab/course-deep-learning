@@ -1,6 +1,6 @@
  <a name="top"></a>
 
-# DEEP LEARNING: Northwestern University CS 396/496 Winter 2024
+# DEEP LEARNING: Northwestern University CS 396/496 Spring 2024
 
 |[**Top**](#top)|  [**Calendar**](#calendar)| [**Links**](#links)| [**Readings**](#readings)|
 
@@ -8,18 +8,26 @@
 Tuesdays and Thursdays, 9:30am - 10:50am Central Time
 
 #### Loctation
-????
+Tech Lecture Room 5
 
 
 #### Instructors
 Professor: [Bryan Pardo](http://bryanpardo.com)
 
-TAs:  Hugo Flores Garcia, Patrick O'Reilly
+TAs:  Hugo Flores Garcia, Weijan Li
 
-Peer Mentors: Jerry Cao, Saumya Pailwan, Anant Poddar, Nathan Pruyne
+Peer Mentors: Conor Kotwasinski, Cameron Churchwell, Nathan Pruyne, Finn Wintz, Ben Ferreira
 
 #### Office hours
-TBD
+Monday: Weijan Li 3-5pm on [Weijan's zoom link](https://northwestern.zoom.us/j/97477504815), Conor Kotwasinski 5-6pm in Mudd 3532
+
+Tuesday:  Hugo Flores Garcia 1-2pm in Mudd 3532, Cameron Churchwell 1-2pm on  [Cameron's zoom link](https://northwestern.zoom.us/j/3883785036?pwd=S0pxYWgzUGZ2d1p4ZEZGMnl0SG80dz09), Bryan Pardo 3-5pm in Mudd 3115
+
+Wednesday:  Cameron Churchwell 9-10am in Mudd 3532, Ben Ferreira 1-3pm on [Ben's zoom link](https://northwestern.zoom.us/j/95885283343), Conor Kotwasinsky 3 - 4pm in Mudd 3108, Finn Wintz 4-5pm on [Finn's zoom link](https://northwestern.zoom.us/j/2092202714)
+
+Thursday: Finn Wintz 4-5pm on [Finn's zoom link](https://northwestern.zoom.us/j/2092202714),  Nathan Pruyne 6pm - 8pm in Mudd 3532, Hugo Flores Garcia 1-2pm in Mudd 3532
+
+
 
 ## Course Description 
 This is a first course in Deep Learning. We will study deep learning architectures: perceptrons, multi-layer perceptrons, convolutional networks, recurrent neural networks (LSTMs, GRUs), attention networks, transformers, autoencoders, and the combination of reinforcement learning with deep learning. Other covered topics include regularization, loss functions and gradient descent. 
@@ -44,10 +52,10 @@ Assignments must be submitted on the due date by the time specified on Canvas. I
 #### Grading Policy
 You will be graded on a 100 point scale (e.g. 93 to 100 = A, 90-92 = A-, 87-89 = B+, 83-86 = B, 80-82 = B-...and so on). 
 
-Homework and reading assignments are solo assignments and must be your own original work. Use of large language models for answer generation is not allowed.
+Homework and reading assignments are solo assignments and must be original work.  
 
 #### Extra Credit
-The final exam is a strictly extra-credit project. You can earn up to 10 additional points.
+You can earn up to 8 points of extra credit in the final reading example
 
 
 <a name="calendar"></a>
@@ -56,37 +64,37 @@ The final exam is a strictly extra-credit project. You can earn up to 10 additio
 
 | Week|Day and Date| Topic (tentative)                        |Due today           | Points|
 |----:|------------|------------------------------------------|--------------------|------:|
-|1 | Tue Jan 7     | No class: Northwestern runs Monday classes on Tuesday                                  | | |
-|1 | Thu Jan 9     | [Perceptrons](slides/DL_perceptrons.pdf)                                               | | |
+|1 | Tue Mar 26    | No class: Northwestern runs Monday classes on Tuesday                                  | | |
+|1 | Thu Mar 28    | [Perceptrons](slides/DL_perceptrons.pdf)                                               | | |
 |1 | -             | [Notebook 1: perceptrons](notebooks/notebook_1_perceptron.ipynb)                       | | |
-|2 | Tue Jan 14    | [Gradient descent](slides/DL_gradient_descent.pdf)                                     | Reading 1 | 8 | 
-|2 | Thu Jan 16    | [Backpropagation of error](slides/DL_multilayer_perceptrons.pdf)                       | | |
+|2 | Tue Apr 02    | [Gradient descent](slides/DL_gradient_descent.pdf)                                     | Reading 1 | 8 | 
+|2 | Thu Apr 04    | [Backpropagation of error](slides/DL_multilayer_perceptrons.pdf)                       | | |
 |2 | -             | [Notebook 2: MLP in Pytorch](notebooks/notebook_2_nn.ipynb)                            | | |
-|3 | Tue Jan 21    | [Multi-layer perceptrons](slides/DL_multilayer_perceptrons.pdf)                        | Homework 1 | 15 |
-|3 | Thu Jan 23    | [Convolutional nets](slides/DL_convolutional_nets.pdf)                                 | | |
+|3 | Tue Apr 9     | [Multi-layer perceptrons](slides/DL_multilayer_perceptrons.pdf)                        | Homework 1 | 15 |
+|3 | Thu Apr 11    | [Convolutional nets](slides/DL_convolutional_nets.pdf)                                 | | |
 |3 | -             | [Notebook 3: Image Classification](notebooks/notebook_3_image_classification.ipynb)    | | |
-|4 | Tue Jan 28    | [regularization](slides/DL_regularization.pdf)                                         | Reading 2 | 8 |
-|4 | Thu Jan 30    | [Data augmentation & generalization](slides/DL_regularization.pdf)                     | | |
+|4 | Tue Apr 16    | [regularization](slides/DL_regularization.pdf)                                         | Reading 2 | 8 |
+|4 | Thu Apr 18    | [Data augmentation & generalization](slides/DL_regularization.pdf)                     | | |
 |4 | -             | [Notebook 4: CNNs & Logging](notebooks/notebook_4_augmentation_logging.ipynb)          | | |
-|5 | Tue Feb 4     | [Visual adversarial examples](slides/DL_adversarial_examples.pdf)                      | | |
-|5 | Thu Apr 6     | [Auditory adversarial examples](slides/DL_audio_adversarial.pdf)                       | Homework 2| 15 |
+|5 | Tue Apr 23    | [Visual adversarial examples](slides/DL_adversarial_examples.pdf)                      | | |
+|5 | Thu Apr 25    | [Auditory adversarial examples](slides/DL_audio_adversarial.pdf)                       | Homework 2| 15 |
 |5 | -             | [Notebook 5: adversarial examples](notebooks/notebook_5_adversarial_examples.ipynb)    | | |
-|6 | Tue Feb 11    | [Generative adversarial networks (GANS)](slides/DL_GANs.pdf)                           | | |
-|6 | Thu Feb 13    | [More GANS](slides/DL_GANs.pdf)                                                        | Reading 3 | 8 |
+|6 | Tue Apr 30    | [Generative adversarial networks (GANS)](slides/DL_GANs.pdf)                           | | |
+|6 | Thu May 02    | [More GANS](slides/DL_GANs.pdf)                                                        | Reading 3 | 8 |
 |6 | -             | [Notebook 6: GANs](notebooks/notebook_6_gan.ipynb)                                     | | |
-|7 | Tue Feb 18    | [Unsupervised methods](slides/DL_unsupervised_methods.pdf)                             | | |
-|7 | Thu Feb 20    | [recurrent nets](slides/DL_recurrent_nets.pdf)                                         | Homework 3 |15 |
+|7 | Tue May 07    | [Unsupervised methods](slides/DL_unsupervised_methods.pdf)                             | | |
+|7 | Thu May 09    | [recurrent nets](slides/DL_recurrent_nets.pdf)                                         | Homework 3 |15 |
 |7 | -             | [Notebook 7: autoencoders](notebooks/notebook_7_autoencoder.ipynb)                     | | |
-|8 | Tue Feb 25    | [LSTMs](slides/DL_recurrent_nets.pdf)                                                  | | |
-|8 | Thu Feb 27    | [Deep RL](slides/DL_deep_reinforcement_learning.pdf)                                   | Reading 4 | 8 |
+|8 | Tue May 14    | [LSTMs](slides/DL_recurrent_nets.pdf)                                                  | | |
+|8 | Thu May 16    | [Deep RL](slides/DL_deep_reinforcement_learning.pdf)                                   | Reading 4 | 8 |
 |8 | -             | [Notebook 8: RNNs](notebooks/notebook_8_rnn.ipynb)                                     | | |
-|9 | Tue Mar 4     | [Reinforcement learning (RL)](slides/DL_deep_reinforcement_learning.pdf)               | | |
-|9 | Thu Mar 6     | [Pong with Reinforcement learning (RL)](slides/GM_deep_RL_2_policy_gradients.pdf)      | Reading 5 | 8 |
-|9 | -             | Diffusion Models                                                                       | | |
-|10| Tue Mar 11    | [Attention networks](slides/DL_attention_networks.pdf)                                 | | |
-|10| Thu Mar 13    | [Transformers](slides/DL_transformers.pdf)Diffusion Models                             | Homework 4 | 15 | 
+|9 | Tue May 21    | [Reinforcement learning (RL)](slides/DL_deep_reinforcement_learning.pdf)               | | |
+|9 | Thu May 23    | [Pong with Reinforcement learning (RL)](slides/GM_deep_RL_2_policy_gradients.pdf)      | Reading 5 | 8 |
+|9 | -             | [Attention networks](slides/DL_attention_networks.pdf)                                 | | |
+|10| Tue May 28    | [Transformers](slides/DL_transformers.pdf)                                             | | |
+|10| Thu May 30    | Current research in DL                                                                 | Homework 4 | 15 | 
 |10| -             |                                                                                        | | |
-|11| Tue Mar 18    | Extra credit project is due by end of the day.                                         | Homework 5 XC | 10 |
+|11| Tue Jun 04    | No final exam, just extra credit reading                                               | Extra Credit Reading 6 | 8 |
 
 
 
@@ -269,13 +277,6 @@ If you already understand what convolutional networks are, then here are some po
 1. [Mastering the game of Go with deep neural networks and tree search](http://airesearch.com/wp-content/uploads/2016/01/deepmind-mastering-go.pdf): A famous paper that showed how RL + Deepnets = the best Go player in existence at the time.
 
 1. [A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play](https://science.sciencemag.org/content/362/6419/1140/): This is the AlphaZero paper. AlphaZero is the best go player...and a great chess player.
-
-#### Diffusion Models
-
-READING TBD
-
-
-
 
 
  |[**Top**](#top)|  [**Calendar**](#calendar)| [**Links**](#links)| [**Readings**](#readings)|
