@@ -8,7 +8,7 @@
 Tuesdays and Thursdays, 9:30am - 10:50am Central Time
 
 #### Loctation
-????
+2122 Sheridan Rd Classroom 250
 
 
 #### Instructors
@@ -47,8 +47,7 @@ You will be graded on a 100 point scale (e.g. 93 to 100 = A, 90-92 = A-, 87-89 =
 Homework and reading assignments are solo assignments and must be your own original work. Use of large language models for answer generation is not allowed.
 
 #### Extra Credit
-The final exam is a strictly extra-credit project. You can earn up to 10 additional points.
-
+There is an extra credit reading assignment worth 10 points. 
 
 <a name="calendar"></a>
 ## Course Calendar
@@ -56,37 +55,36 @@ The final exam is a strictly extra-credit project. You can earn up to 10 additio
 
 | Week|Day and Date| Topic (tentative)                        |Due today           | Points|
 |----:|------------|------------------------------------------|--------------------|------:|
-|1 | Tue Jan 7     | No class: Northwestern runs Monday classes on Tuesday                                  | | |
-|1 | Thu Jan 9     | [Perceptrons](slides/DL_perceptrons.pdf)                                               | | |
+|1 | Tue Jan 7     | [Perceptrons](slides/DL_perceptrons.pdf)                                               | | |
 |1 | -             | [Notebook 1: perceptrons](notebooks/notebook_1_perceptron.ipynb)                       | | |
-|2 | Tue Jan 14    | [Gradient descent](slides/DL_gradient_descent.pdf)                                     | Reading 1 | 8 | 
-|2 | Thu Jan 16    | [Backpropagation of error](slides/DL_multilayer_perceptrons.pdf)                       | | |
+|1 | Thu Jan 9     | [Gradient descent](slides/DL_gradient_descent.pdf)                                     | | | 
+|2 | Tue Jan 14    | [Backpropagation of error](slides/DL_multilayer_perceptrons.pdf)                       | | |
 |2 | -             | [Notebook 2: MLP in Pytorch](notebooks/notebook_2_nn.ipynb)                            | | |
-|3 | Tue Jan 21    | [Multi-layer perceptrons](slides/DL_multilayer_perceptrons.pdf)                        | Homework 1 | 15 |
-|3 | Thu Jan 23    | [Convolutional nets](slides/DL_convolutional_nets.pdf)                                 | | |
+|2 | Thu Jan 16    | [Multi-layer perceptrons](slides/DL_multilayer_perceptrons.pdf)                        | | |
+|3 | Tue Jan 21    | [Convolutional nets](slides/DL_convolutional_nets.pdf)                                 | Homework 1 | 15 |
 |3 | -             | [Notebook 3: Image Classification](notebooks/notebook_3_image_classification.ipynb)    | | |
-|4 | Tue Jan 28    | [regularization](slides/DL_regularization.pdf)                                         | Reading 2 | 8 |
-|4 | Thu Jan 30    | [Data augmentation & generalization](slides/DL_regularization.pdf)                     | | |
+|3 | Thu Jan 23    | [regularization](slides/DL_regularization.pdf)                                         | | |
+|4 | Tue Jan 28    | [Data augmentation & generalization](slides/DL_regularization.pdf)                     | | |
 |4 | -             | [Notebook 4: CNNs & Logging](notebooks/notebook_4_augmentation_logging.ipynb)          | | |
-|5 | Tue Feb 4     | [Visual adversarial examples](slides/DL_adversarial_examples.pdf)                      | | |
-|5 | Thu Apr 6     | [Auditory adversarial examples](slides/DL_audio_adversarial.pdf)                       | Homework 2| 15 |
-|5 | -             | [Notebook 5: adversarial examples](notebooks/notebook_5_adversarial_examples.ipynb)    | | |
+|4 | Thu Jan 30    | [Adversarial examples](slides/DL_adversarial_examples.pdf)                             | | |
+|4 | -             | [Notebook 5: adversarial examples](notebooks/notebook_5_adversarial_examples.ipynb)    | | |
+|5 | Tue Feb 4     | MIDTERM PREP                                                                           | Homework 2| 15 |
+|5 | Thu Feb 6     | MIDTERM                                                                                | Midterm   | 20 |
 |6 | Tue Feb 11    | [Generative adversarial networks (GANS)](slides/DL_GANs.pdf)                           | | |
-|6 | Thu Feb 13    | [More GANS](slides/DL_GANs.pdf)                                                        | Reading 3 | 8 |
 |6 | -             | [Notebook 6: GANs](notebooks/notebook_6_gan.ipynb)                                     | | |
-|7 | Tue Feb 18    | [Unsupervised methods](slides/DL_unsupervised_methods.pdf)                             | | |
-|7 | Thu Feb 20    | [recurrent nets](slides/DL_recurrent_nets.pdf)                                         | Homework 3 |15 |
+|6 | Thu Feb 13    | [Unsupervised methods](slides/DL_unsupervised_methods.pdf)                             | | |
+|7 | Tue Feb 18    | [recurrent nets](slides/DL_recurrent_nets.pdf)                                         | Homework 3 |15 |
 |7 | -             | [Notebook 7: autoencoders](notebooks/notebook_7_autoencoder.ipynb)                     | | |
-|8 | Tue Feb 25    | [LSTMs](slides/DL_recurrent_nets.pdf)                                                  | | |
-|8 | Thu Feb 27    | [Deep RL](slides/DL_deep_reinforcement_learning.pdf)                                   | Reading 4 | 8 |
+|7 | Thu Feb 20    | [LSTMs](slides/DL_recurrent_nets.pdf)                                                  | | |
+|8 | Tue Feb 25    | [Deep RL](slides/DL_deep_reinforcement_learning.pdf)                                   | | |
 |8 | -             | [Notebook 8: RNNs](notebooks/notebook_8_rnn.ipynb)                                     | | |
-|9 | Tue Mar 4     | [Reinforcement learning (RL)](slides/DL_deep_reinforcement_learning.pdf)               | | |
-|9 | Thu Mar 6     | [Pong with Reinforcement learning (RL)](slides/GM_deep_RL_2_policy_gradients.pdf)      | Reading 5 | 8 |
+|8 | Thu Feb 27    | [Reinforcement learning (RL)](slides/DL_deep_reinforcement_learning.pdf)               | | |
+|9 | Tue Mar 4     | [Pong with Reinforcement learning (RL)](slides/GM_deep_RL_2_policy_gradients.pdf)      | Homework 4 | 15 |
 |9 | -             | Diffusion Models                                                                       | | |
-|10| Tue Mar 11    | [Attention networks](slides/DL_attention_networks.pdf)                                 | | |
-|10| Thu Mar 13    | [Transformers](slides/DL_transformers.pdf)Diffusion Models                             | Homework 4 | 15 | 
-|10| -             |                                                                                        | | |
-|11| Tue Mar 18    | Extra credit project is due by end of the day.                                         | Homework 5 XC | 10 |
+|9 | Thu Mar 6     | [Attention networks](slides/DL_attention_networks.pdf)                                 | | |
+|10| Tue Mar 11    | [Transformers](slides/DL_transformers.pdf)                                             | | | 
+|10| Thu Mar 13    | FINAL PREP                                                                             | | |
+|11| Tue Mar 18    | FINAL EXAM                                                                             | Final exam | 20 |
 
 
 
@@ -100,6 +98,7 @@ The final exam is a strictly extra-credit project. You can earn up to 10 additio
 [Anaconda](https://www.anaconda.com) is the most popular python distro for machine learning.
 
 [Pytorch](http://pytorch.org/) Facebook's popular deep learning package. My lab uses this.
+
 [Tensorboard](https://www.tensorflow.org/tensorboard) is what my lab uses to visualize how experiments are going. 
 
 [Tensorflow](https://www.tensorflow.org/) is Google's most popular python DNN package
@@ -132,6 +131,28 @@ For $10 per month, you also get priority access to GPUs and TPUs.
 ## Course Reading
 [**Back to top**](#top)
 
+
+### Readings that might be on a quiz
+
+1. [Chapter 4 of Machine Learning ](readings/chapter4-ml.pdf): **READ THIS FIRST** This is Tom Mitchell's book. Historical overview + explanation of backprop of error. It's a good starting point for actually understanding deep nets. 
+
+1. [Chapter 4 of the Deep Learning Book](http://www.deeplearningbook.org/): This covers basics of gradient-based optimization. **Start here for optimization**
+
+1. [Chapter 6 of Deep Learning](http://www.deeplearningbook.org/): This covers the basics from a more modern perspective. To my mind, if you've read Tom Mitchell, it is mostly useful for covering different kinds of activation functions.
+
+1. [Chapter 7 of the Deep Learning Book](http://www.deeplearningbook.org/): Covers regularization. 
+
+1. [Chapter 8 of the Deep Learning Book](http://www.deeplearningbook.org/): This covers optimization. **This should come 2nd in your optimization reading**
+
+1. [Generalization and Network Design Strategies](http://yann.lecun.com/exdb/publis/pdf/lecun-89.pdf): The original 1989 paper where LeCun describes Convolutional networks. 
+
+1. [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572) : This paper got the ball rolling by pointing out how to make images that look good but are consistently misclassified by trained deepnets.
+
+1. [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661v1.pdf): The paper that introduced GANs. **If you read only one GAN paper, make it this one.** 
+
+1. [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf): Explains a widely-used regularizer 
+
+
 #### The History
 1. [The Organization of Behavior](https://pure.mpg.de/pubman/item/item_2346268_3/component/file_2346267/Hebb_1949_The_Organization_of_Behavior.pdf): Hebb's 1949 book that provides a general framework for relating behavior to synaptic organization through the dynamics of neural networks. 
 
@@ -139,13 +160,13 @@ For $10 per month, you also get priority access to GPUs and TPUs.
 
 1. [The Perceptron: A perceiving and recognizing automoton](https://bpb-us-e2.wpmucdn.com/websites.umass.edu/dist/a/27637/files/2016/03/rosenblatt-1957.pdf): This one is an earlier paper by Rosenblatt that is, perhaps, even more historical than the 1958 paper and a bit easer for an engineer to follow, I think.
 
-#### The basics (1st reading topic)
+#### The basics (1st Topic)
 
-1. [* Chapter 4 of Machine Learning ](readings/chapter4-ml.pdf): This is Tom Mitchell's book. Historical overview + explanation of backprop of error. It's a good starting point for actually understanding deep nets. **START HERE. IT'S WORTH 2 READINGS. WHAT THAT MEANS IS...GIVE ME 2 PAGES OF REACTIONS FOR THIS READING AND GET CREDIT FOR 2 READINGS**
+1. [* Chapter 4 of Machine Learning ](readings/chapter4-ml.pdf): This is Tom Mitchell's book. Historical overview + explanation of backprop of error. It's a good starting point for actually understanding deep nets. 
 
 1. [Chapter 6 of Deep Learning](http://www.deeplearningbook.org/): Modern intro on deep nets. To me, this is harder to follow than Chapter 4 of Machine Learning, though. Certainly, it's longer. 
 
-####  Optimization (2nd reading topic) 
+####  Optimization (2nd topic) 
 
 1. [This reading is **NOT** worth points, but...](https://najeebkhan.github.io/blog/VecCal.html)...if you don't know what a gradient, Jacobian or Hessian is, you should read this before you read Chapter 4 of the Deep Learning book.
 
