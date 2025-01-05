@@ -10,7 +10,6 @@ Tuesdays and Thursdays, 9:30am - 10:50am Central Time
 #### Loctation
 2122 Sheridan Rd Classroom 250
 
-
 #### Instructors
 Professor: [Bryan Pardo](http://bryanpardo.com)
 
@@ -47,7 +46,7 @@ You will be graded on a 100 point scale (e.g. 93 to 100 = A, 90-92 = A-, 87-89 =
 Homework and reading assignments are solo assignments and must be your own original work. Use of large language models for answer generation is not allowed.
 
 #### Extra Credit
-There is an extra credit reading assignment worth 10 points. 
+There is an extra credit assignment worth 10 points. 
 
 <a name="calendar"></a>
 ## Course Calendar
@@ -68,25 +67,22 @@ There is an extra credit reading assignment worth 10 points.
 |4 | -             | [Notebook 4: CNNs & Logging](notebooks/notebook_4_augmentation_logging.ipynb)          | | |
 |4 | Thu Jan 30    | [Adversarial examples](slides/DL_adversarial_examples.pdf)                             | | |
 |4 | -             | [Notebook 5: adversarial examples](notebooks/notebook_5_adversarial_examples.ipynb)    | | |
-|5 | Tue Feb 4     | MIDTERM PREP                                                                           | Homework 2| 15 |
-|5 | Thu Feb 6     | MIDTERM                                                                                | Midterm   | 20 |
-|6 | Tue Feb 11    | [Generative adversarial networks (GANS)](slides/DL_GANs.pdf)                           | | |
-|6 | -             | [Notebook 6: GANs](notebooks/notebook_6_gan.ipynb)                                     | | |
+|5 | Tue Feb 4     | [Generative adversarial networks (GANS)](slides/DL_GANs.pdf)                           | Homework 2| 15 |
+|5 | -             | [Notebook 6: GANs](notebooks/notebook_6_gan.ipynb)                                     | | |
+|5 | Thu Feb 6     | MIDTERM PREP                                                                           | | |
+|6 | Tue Feb 11    | MIDTERM                                                                                | Midterm   | 20 |
 |6 | Thu Feb 13    | [Unsupervised methods](slides/DL_unsupervised_methods.pdf)                             | | |
+|6 | -             | [Notebook 7: autoencoders](notebooks/notebook_7_autoencoder.ipynb)                     | | |
 |7 | Tue Feb 18    | [recurrent nets](slides/DL_recurrent_nets.pdf)                                         | Homework 3 |15 |
-|7 | -             | [Notebook 7: autoencoders](notebooks/notebook_7_autoencoder.ipynb)                     | | |
 |7 | Thu Feb 20    | [LSTMs](slides/DL_recurrent_nets.pdf)                                                  | | |
+|7 | -             | [Notebook 8: RNNs](notebooks/notebook_8_rnn.ipynb)                                     | | |
 |8 | Tue Feb 25    | [Deep RL](slides/DL_deep_reinforcement_learning.pdf)                                   | | |
-|8 | -             | [Notebook 8: RNNs](notebooks/notebook_8_rnn.ipynb)                                     | | |
 |8 | Thu Feb 27    | [Reinforcement learning (RL)](slides/DL_deep_reinforcement_learning.pdf)               | | |
-|9 | Tue Mar 4     | [Pong with Reinforcement learning (RL)](slides/GM_deep_RL_2_policy_gradients.pdf)      | Homework 4 | 15 |
-|9 | -             | Diffusion Models                                                                       | | |
+|9 | Tue Mar 4     | [Pong with Reinforcement learning (RL)](slides/GM_deep_RL_2_policy_gradients.pdf)      | | |
 |9 | Thu Mar 6     | [Attention networks](slides/DL_attention_networks.pdf)                                 | | |
-|10| Tue Mar 11    | [Transformers](slides/DL_transformers.pdf)                                             | | | 
-|10| Thu Mar 13    | FINAL PREP                                                                             | | |
-|11| Tue Mar 18    | FINAL EXAM                                                                             | Final exam | 20 |
-
-
+|10| Tue Mar 11    | FINAL EXAM PREP                                                                        | Homework 4 | 15 | 
+|10| Thu Mar 13    | FINAL EXAM                                                                             | | |
+|11| Thu Mar 20    | Extra Credit assignment due                                                            | Extra Credit | 10 |
 
 
 <a name="links"></a>
