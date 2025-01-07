@@ -1,6 +1,6 @@
  <a name="top"></a>
 
-# DEEP LEARNING: Northwestern University CS 396/496 Winter 2024
+# DEEP LEARNING: Northwestern University CS 396/496 Winter 2025
 
 |[**Top**](#top)|  [**Calendar**](#calendar)| [**Links**](#links)| [**Readings**](#readings)|
 
