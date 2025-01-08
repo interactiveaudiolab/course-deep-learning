@@ -22,12 +22,15 @@ Peer Mentors: Jerry Cao, Saumya Pailwan, Anant Poddar, Nathan Pruyne
 Bryan Pardo TBD
 
 Anant Poddar	M	3pm - 5pm     Mudd 3 floor front counter
+
 Nathan Pruyne   M   5pm - 7pm     Mudd 3207
 
 Saumya Pailwan	W	2pm - 4pm     Mudd 3 floor front counter
+
 Jerry Cao       W   5pm - 7pm     Mudd 3 floor front counter
 
 Patrick O'Reilly   TH noon - 2pm Mudd 3207
+
 Hugo Flores Garcia TH 2pm - 4pm  Mudd 3207
 
 
