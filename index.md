@@ -19,11 +19,11 @@ Peer Mentors: Jerry Cao, Saumya Pailwan, Anant Poddar, Nathan Pruyne
 
 #### Office hours
 
-Bryan Pardo TBD
-
 Anant Poddar	M	3pm - 5pm     Mudd 3 floor front counter
 
 Nathan Pruyne   M   5pm - 7pm     Mudd 3207
+
+Bryan Pardo    TU   11am - noon Mudd 3115
 
 Saumya Pailwan	W	2pm - 4pm     Mudd 3 floor front counter
 
