@@ -148,15 +148,15 @@ For $10 per month, you also get priority access to GPUs and TPUs.
 
 1. [What are Gradients, Jacobians, and Hessians?](https://najeebkhan.github.io/blog/VecCal.html): This isn't a book chapter, but if you don't know what a gradient, Jacobian or Hessian is, you should read this before you read Chapter 4 of the Deep Learning book.
 
-1. [Chapter 4 of the Deep Learning Book](http://www.deeplearningbook.org/): This covers basics of gradient-based optimization. 
+1. [Chapter 4 of the Deep Learning Book](http://www.deeplearningbook.org/): This covers basics of gradient-based optimization. Read through Section 4.3.
 
-1. [Chapter 6 of Deep Learning](http://www.deeplearningbook.org/): This covers the basics from a more modern perspective. To my mind, if you've read Tom Mitchell, it is mostly useful for covering different kinds of activation functions.
+1. [Chapter 6 of Deep Learning](http://www.deeplearningbook.org/): This covers the basics from a more modern perspective. To my mind, if you've read Tom Mitchell, it is mostly useful for covering different kinds of activation functions. Read through Section 6.4
 
-1. [Chapter 7 of the Deep Learning Book](http://www.deeplearningbook.org/): Covers regularization. 
+1. [Chapter 7 of the Deep Learning Book](http://www.deeplearningbook.org/): Covers regularization. The minimal useful read is sections 7.1 and 7.4...but this assumes you'll read the papers some of the other sections are based on. Those papers are in the additional readings. If you don't read those, then I'd add 7.9, 7.12, 7.13.
 
-1. [Chapter 8 of the Deep Learning Book](http://www.deeplearningbook.org/): This covers optimization. 
+1. [Chapter 8 of the Deep Learning Book](http://www.deeplearningbook.org/): This covers optimization. Read through Section 8.5. Beyond that, it is stuff outside the scope of the class.
 
-1. [Chapter 9 of Deep Learning](http://www.deeplearningbook.org/): Convolutional networks.
+1. [Chapter 9 of Deep Learning](http://www.deeplearningbook.org/): Convolutional networks. Read 9.1 through 9.4 and 9.10
 
 1. [Understanding LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/): A simple (maybe too simple?) walk-through of LSTMs. Good to read before trying the book chapter on this topic.
 
