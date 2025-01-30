@@ -146,7 +146,7 @@ For $10 per month, you also get priority access to GPUs and TPUs.
 
 1. [Chapter 4 of Machine Learning ](readings/chapter4-ml.pdf): **READ THIS FIRST** This is Tom Mitchell's book. Historical overview + explanation of backprop of error. It's a good starting point for actually understanding deep nets. 
 
-1. [What are Gradients Jacobians and Hessians?](https://najeebkhan.github.io/blog/VecCal.html). This isn't a book chapter, but if you don't know what a gradient, Jacobian or Hessian is, you should read this before you read Chapter 4 of the Deep Learning book.
+1. [What are Gradients, Jacobians, and Hessians?](https://najeebkhan.github.io/blog/VecCal.html). This isn't a book chapter, but if you don't know what a gradient, Jacobian or Hessian is, you should read this before you read Chapter 4 of the Deep Learning book.
 
 1. [Chapter 4 of the Deep Learning Book](http://www.deeplearningbook.org/): This covers basics of gradient-based optimization. 
 
