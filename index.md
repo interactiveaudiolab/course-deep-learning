@@ -144,7 +144,7 @@ For $10 per month, you also get priority access to GPUs and TPUs.
 
 ### Book Chapter Readings
 
-1. [Chapter 4 of Machine Learning ](readings/chapter4-ml.pdf): **READ THIS FIRST** This is Tom Mitchell's book. Historical overview + explanation of backprop of error. It's a good starting point for actually understanding deep nets. 
+1. [Chapter 4 of Machine Learning ](readings/chapter4-ml.pdf): **READ THIS FIRST** This is Tom Mitchell's book. Historical overview + explanation of backprop of error. It's a good starting point for actually understanding deep nets. Read the whole chapter. 
 
 1. [What are Gradients, Jacobians, and Hessians?](https://najeebkhan.github.io/blog/VecCal.html): This isn't a book chapter, but if you don't know what a gradient, Jacobian or Hessian is, you should read this before you read Chapter 4 of the Deep Learning book.
 
@@ -157,6 +157,8 @@ For $10 per month, you also get priority access to GPUs and TPUs.
 1. [Chapter 8 of the Deep Learning Book](http://www.deeplearningbook.org/): This covers optimization. Read through Section 8.5. Beyond that, it is stuff outside the scope of the class.
 
 1. [Chapter 9 of Deep Learning](http://www.deeplearningbook.org/): Convolutional networks. Read 9.1 through 9.4 and 9.10
+
+------ no book chapter below this line will be expected for the midterm ------
 
 1. [Understanding LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/): A simple (maybe too simple?) walk-through of LSTMs. Good to read before trying the book chapter on this topic.
 
@@ -175,6 +177,8 @@ For $10 per month, you also get priority access to GPUs and TPUs.
 1. [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661v1.pdf): The paper that introduced GANs. 
 
 1. [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf): Explains a widely-used regularizer 
+
+------ no additional reading below this line will be expected for the midterm ------
 
 1. [DCGAN: Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434): This is an end-to-end model. Many papers build on this. The homework uses the discriminator approach from this paper
 
