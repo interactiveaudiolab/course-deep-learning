@@ -168,7 +168,7 @@ For $10 per month, you also get priority access to GPUs and TPUs.
 
 ### Additional Readings
 
-1. [Generalization and Network Design Strategies](http://yann.lecun.com/exdb/publis/pdf/lecun-89.pdf): The original 1989 paper where LeCun describes Convolutional networks. 
+1. [Generalization and Network Design Strategies](https://masters.donntu.ru/2012/fknt/umiarov/library/lecun.pdf): The original 1989 paper where LeCun describes Convolutional networks. 
 
 1. [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167v3.pdf)
 
