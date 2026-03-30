@@ -1,25 +1,37 @@
  <a name="top"></a>
 
-# DEEP LEARNING: Northwestern University CS 396/496 Spring 2026
+# DEEP LEARNING: Northwestern University CS 396/496 Winter 2025
 
 |[**Top**](#top)|  [**Calendar**](#calendar)| [**Links**](#links)| [**Readings**](#readings)|
 
 #### Class Day/Time
-Tuesdays and Thursdays, 3:30pm - 4:50pm Central Time
+Tuesdays and Thursdays, 9:30am - 10:50am Central Time
 
 #### Loctation
-Technological Institute M345
+2122 Sheridan Rd Classroom 250
 
 #### Instructors
 Professor: [Bryan Pardo](http://bryanpardo.com)
 
-TAs: 
+TAs:  Hugo Flores Garcia, Patrick O'Reilly
 
-Peer Mentors: 
+Peer Mentors: Jerry Cao, Saumya Pailwan, Anant Poddar, Nathan Pruyne
 
 #### Office hours
 
-TBD
+Anant Poddar	M	3pm - 5pm     Mudd 3 floor front counter
+
+Nathan Pruyne   M   5pm - 7pm     Mudd 3207
+
+Bryan Pardo    TU   11am - noon Mudd 3115
+
+Saumya Pailwan	W	2pm - 4pm     Mudd 3 floor front counter
+
+Jerry Cao       W   5pm - 7pm     Mudd 3 floor front counter
+
+Patrick O'Reilly   TH 12pm - 1pm, 2pm-3pm Mudd 3207
+
+Hugo Flores Garcia TH 2pm - 4pm  Mudd 3207
 
 
 ## Course Description 
@@ -45,14 +57,10 @@ Assignments must be submitted on the due date by the time specified on Canvas. I
 #### Grading Policy
 You will be graded on a 100 point scale (e.g. 93 to 100 = A, 90-92 = A-, 87-89 = B+, 83-86 = B, 80-82 = B-...and so on). 
 
-There are 2 exams and 5 homework assignments. The homework where you got the worst grade will be dropped from grading.
-
-Homework and reading assignments are solo assignments and must be your own original work. 
-
-Use of large language models for answer generation is not allowed.
+Homework and reading assignments are solo assignments and must be your own original work. Use of large language models for answer generation is not allowed.
 
 #### Extra Credit
-There are 5 homework assignments. The homework where you got the worst grade will be dropped from grading. There is no other extra credit.
+There is an extra credit assignment worth 10 points. More details soon. 
 
 <a name="calendar"></a>
 ## Course Calendar
@@ -60,35 +68,35 @@ There are 5 homework assignments. The homework where you got the worst grade wil
 
 | Week|Day and Date| Topic (tentative)                        |Due today           | Points|
 |----:|------------|------------------------------------------|--------------------|------:|
-|1 | Tue Apr 7     | [Perceptrons](slides/DL_perceptrons.pdf)                                               | | |
+|1 | Tue Jan 7     | [Perceptrons](slides/DL_perceptrons.pdf)                                               | | |
 |1 | -             | [Notebook 1: perceptrons](notebooks/notebook_1_perceptron.ipynb)                       | | |
-|1 | Thu Apr 9     | [Gradient descent](slides/DL_gradient_descent.pdf)                                     | | | 
-|2 | Tue Apr 14    | [Backpropagation of error](slides/DL_multilayer_perceptrons.pdf)                       | | |
+|1 | Thu Jan 9     | [Gradient descent](slides/DL_gradient_descent.pdf)                                     | | | 
+|2 | Tue Jan 14    | [Backpropagation of error](slides/DL_multilayer_perceptrons.pdf)                       | | |
 |2 | -             | [Notebook 2: MLP in Pytorch](notebooks/notebook_2_nn.ipynb)                            | | |
-|2 | Thu Apr 16    | [Multi-layer perceptrons](slides/DL_multilayer_perceptrons.pdf)                        | | |
-|3 | Tue Apr 21    | [Convolutional nets](slides/DL_convolutional_nets.pdf)                                 | Homework 1 | 15 |
+|2 | Thu Jan 16    | [Multi-layer perceptrons](slides/DL_multilayer_perceptrons.pdf)                        | | |
+|3 | Tue Jan 21    | [Convolutional nets](slides/DL_convolutional_nets.pdf)                                 | Homework 1 | 15 |
 |3 | -             | [Notebook 3: Image Classification](notebooks/notebook_3_image_classification.ipynb)    | | |
-|3 | Thu Apr 23    | [regularization](slides/DL_regularization.pdf)                                         | | |
-|4 | Tue Apr 28    | [Data augmentation & generalization](slides/DL_regularization.pdf)                     | | |
+|3 | Thu Jan 23    | [regularization](slides/DL_regularization.pdf)                                         | | |
+|4 | Tue Jan 28    | [Data augmentation & generalization](slides/DL_regularization.pdf)                     | | |
 |4 | -             | [Notebook 4: CNNs & Logging](notebooks/notebook_4_augmentation_logging.ipynb)          | | |
-|4 | Thu Apr 30    | [Adversarial examples](slides/DL_adversarial_examples.pdf)                             | | |
+|4 | Thu Jan 30    | [Adversarial examples](slides/DL_adversarial_examples.pdf)                             | | |
 |4 | -             | [Notebook 5: adversarial examples](notebooks/notebook_5_adversarial_examples.ipynb)    | | |
-|5 | Tue May 5     | [Generative adversarial networks (GANS)](slides/DL_GANs.pdf)                           | Homework 2| 15 |
+|5 | Tue Feb 4     | [Generative adversarial networks (GANS)](slides/DL_GANs.pdf)                           | Homework 2| 15 |
 |5 | -             | [Notebook 6: GANs](notebooks/notebook_6_gan.ipynb)                                     | | |
-|5 | Thu May 7     | MIDTERM                                                                                | Midterm   | 20 |
-|6 | Tue May 12    | [Unsupervised methods](slides/DL_unsupervised_methods.pdf)                             | | |
+|5 | Thu Feb 6     | Catch up day                                                                           | | |
+|6 | Tue Feb 11    | MIDTERM                                                                                | Midterm   | 20 |
+|6 | Thu Feb 13    | [Unsupervised methods](slides/DL_unsupervised_methods.pdf)                             | | |
 |6 | -             | [Notebook 7: autoencoders](notebooks/notebook_7_autoencoder.ipynb)                     | | |
-|6 | Thu May 14    | [recurrent nets](slides/DL_recurrent_nets.pdf)                                         | | |
-|6 | -             | [LSTMs](slides/DL_recurrent_nets.pdf)                                                  | | |
-|6 | -             | [Notebook 8: RNNs](notebooks/notebook_8_rnn.ipynb)                                     | | |
-|7 | Tue May 19    | [Reinforcement learning (RL)](slides/DL_deep_reinforcement_learning.pdf)               | Homework 3 | 15 |
-|7 | Thu May 21    | [Deep RL](slides/DL_deep_reinforcement_learning.pdf)                                   | | |
-|8 | Tue May 26    | [Pong with Reinforcement learning (RL)](slides/GM_deep_RL_2_policy_gradients.pdf)      | | |
-|8 | Thu May 28    | [Attention networks](slides/DL_attention_networks.pdf)                                 | | |
-|9 | Tue Jun 2     | [Transformers](slides/DL_transformers.pdf)                                             | Homework 4 | 15 |
-|9 | Thu Jun 4     | Final exam preparation                                                                 | | |
-|10| Tue Jun 9     | no-class, finals week                                                                  | Make-up Homework | 15 | 
-|10| Thu Jun 11    | FINAL EXAM                                                                             | Final Exam | 20 |
+|7 | Tue Feb 18    | [recurrent nets](slides/DL_recurrent_nets.pdf)                                         | | |
+|7 | Thu Feb 20    | [LSTMs](slides/DL_recurrent_nets.pdf)                                                  | Homework 3 | 15 |
+|7 | -             | [Notebook 8: RNNs](notebooks/notebook_8_rnn.ipynb)                                     | | |
+|8 | Tue Feb 25    | [Deep RL](slides/DL_deep_reinforcement_learning.pdf)                                   | | |
+|8 | Thu Feb 27    | [Reinforcement learning (RL)](slides/DL_deep_reinforcement_learning.pdf)               | | |
+|9 | Tue Mar 4     | [Pong with Reinforcement learning (RL)](slides/GM_deep_RL_2_policy_gradients.pdf)      | | |
+|9 | Thu Mar 6     | [Attention networks](slides/DL_attention_networks.pdf)                                 | Homework 4  | 15 |
+|10| Tue Mar 11    | [Transformers](slides/DL_transformers.pdf)                                             | | | 
+|10| Thu Mar 13    | FINAL EXAM                                                                             | Final Exam  | 20 |
+|11| Thu Mar 20    | Extra Credit Due                                                                       | Extra Credit| 10 |
 
 
 <a name="links"></a>
