@@ -71,9 +71,9 @@ There are 5 homework assignments. The homework where you got the worst grade wil
 |3 | Thu Apr 23    | [regularization](slides/DL_regularization.pdf)                                         | | |
 |4 | Tue Apr 28    | [Data augmentation & generalization](slides/DL_regularization.pdf)                     | | |
 |4 | -             | [Notebook 4: CNNs & Logging](notebooks/notebook_4_augmentation_logging.ipynb)          | | |
-|4 | Thu Apr 30    | [Adversarial examples](slides/DL_adversarial_examples.pdf)                             | | |
+|4 | Thu Apr 30    | [Adversarial examples](slides/DL_adversarial_examples.pdf)                             | Homework 2| 15 |
 |4 | -             | [Notebook 5: adversarial examples](notebooks/notebook_5_adversarial_examples.ipynb)    | | |
-|5 | Tue May 5     | [Generative adversarial networks (GANS)](slides/DL_GANs.pdf)                           | Homework 2| 15 |
+|5 | Tue May 5     | [Generative adversarial networks (GANS)](slides/DL_GANs.pdf)                           | | |
 |5 | -             | [Notebook 6: GANs](notebooks/notebook_6_gan.ipynb)                                     | | |
 |5 | Thu May 7     | MIDTERM                                                                                | Midterm   | 20 |
 |6 | Tue May 12    | [Unsupervised methods](slides/DL_unsupervised_methods.pdf)                             | | |
