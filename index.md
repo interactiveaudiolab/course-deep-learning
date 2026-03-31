@@ -45,7 +45,7 @@ Assignments must be submitted on the due date by the time specified on Canvas. I
 #### Grading Policy
 You will be graded on a 100 point scale (e.g. 93 to 100 = A, 90-92 = A-, 87-89 = B+, 83-86 = B, 80-82 = B-...and so on). 
 
-There are 2 exams and 5 homework assignments. The homework where you got the worst grade will be dropped from grading.
+There are 2 exams (each worth 20 points) and 5 homework assignments (each worth 15 points). The homework where you got the worst grade will be dropped from grading.
 
 Homework and reading assignments are solo assignments and must be your own original work. 
 
