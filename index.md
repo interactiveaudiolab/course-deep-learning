@@ -60,35 +60,36 @@ There are 5 homework assignments. The homework where you got the worst grade wil
 
 | Week|Day and Date| Topic (tentative)                        |Due today           | Points|
 |----:|------------|------------------------------------------|--------------------|------:|
-|1 | Tue Apr 7     | [Perceptrons](slides/DL_perceptrons.pdf)                                               | | |
-|1 | -             | [Notebook 1: perceptrons](notebooks/notebook_1_perceptron.ipynb)                       | | |
-|1 | Thu Apr 9     | [Gradient descent](slides/DL_gradient_descent.pdf)                                     | | | 
-|2 | Tue Apr 14    | [Backpropagation of error](slides/DL_multilayer_perceptrons.pdf)                       | | |
-|2 | -             | [Notebook 2: MLP in Pytorch](notebooks/notebook_2_nn.ipynb)                            | | |
-|2 | Thu Apr 16    | [Multi-layer perceptrons](slides/DL_multilayer_perceptrons.pdf)                        | | |
-|3 | Tue Apr 21    | [Convolutional nets](slides/DL_convolutional_nets.pdf)                                 | Homework 1 | 15 |
-|3 | -             | [Notebook 3: Image Classification](notebooks/notebook_3_image_classification.ipynb)    | | |
-|3 | Thu Apr 23    | [regularization](slides/DL_regularization.pdf)                                         | | |
-|4 | Tue Apr 28    | [Data augmentation & generalization](slides/DL_regularization.pdf)                     | | |
-|4 | -             | [Notebook 4: CNNs & Logging](notebooks/notebook_4_augmentation_logging.ipynb)          | | |
-|4 | Thu Apr 30    | [Adversarial examples](slides/DL_adversarial_examples.pdf)                             | Homework 2| 15 |
-|4 | -             | [Notebook 5: adversarial examples](notebooks/notebook_5_adversarial_examples.ipynb)    | | |
-|5 | Tue May 5     | [Generative adversarial networks (GANS)](slides/DL_GANs.pdf)                           | | |
-|5 | -             | [Notebook 6: GANs](notebooks/notebook_6_gan.ipynb)                                     | | |
-|5 | Thu May 7     | MIDTERM                                                                                | Midterm   | 20 |
-|6 | Tue May 12    | [Unsupervised methods](slides/DL_unsupervised_methods.pdf)                             | | |
-|6 | -             | [Notebook 7: autoencoders](notebooks/notebook_7_autoencoder.ipynb)                     | | |
-|6 | Thu May 14    | [recurrent nets](slides/DL_recurrent_nets.pdf)                                         | | |
-|6 | -             | [LSTMs](slides/DL_recurrent_nets.pdf)                                                  | | |
-|6 | -             | [Notebook 8: RNNs](notebooks/notebook_8_rnn.ipynb)                                     | | |
-|7 | Tue May 19    | [Reinforcement learning (RL)](slides/DL_deep_reinforcement_learning.pdf)               | Homework 3 | 15 |
-|7 | Thu May 21    | [Deep RL](slides/DL_deep_reinforcement_learning.pdf)                                   | | |
-|8 | Tue May 26    | [Pong with Reinforcement learning (RL)](slides/GM_deep_RL_2_policy_gradients.pdf)      | | |
-|8 | Thu May 28    | [Attention networks](slides/DL_attention_networks.pdf)                                 | | |
-|9 | Tue Jun 2     | [Transformers](slides/DL_transformers.pdf)                                             | Homework 4 | 15 |
-|9 | Thu Jun 4     | Final exam preparation                                                                 | | |
-|10| Tue Jun 9     | no-class, finals week                                                                  | Make-up Homework | 15 | 
-|10| Thu Jun 11    | FINAL EXAM                                                                             | Final Exam | 20 |
+|1 | Thu Apr 2     | Class introduction                                                                     | | |
+|2 | Tue Apr 7     | [Perceptrons](slides/DL_perceptrons.pdf)                                               | | |
+|2 | -             | [Notebook 1: perceptrons](notebooks/notebook_1_perceptron.ipynb)                       | | |
+|2 | Thu Apr 9     | [Gradient descent](slides/DL_gradient_descent.pdf)                                     | | | 
+|3 | Tue Apr 14    | [Backpropagation of error](slides/DL_multilayer_perceptrons.pdf)                       | | |
+|3 | -             | [Notebook 2: MLP in Pytorch](notebooks/notebook_2_nn.ipynb)                            | | |
+|3 | Thu Apr 16    | [Multi-layer perceptrons](slides/DL_multilayer_perceptrons.pdf)                        | | |
+|4 | Tue Apr 21    | [Convolutional nets](slides/DL_convolutional_nets.pdf)                                 | Homework 1 | 15 |
+|4 | -             | [Notebook 3: Image Classification](notebooks/notebook_3_image_classification.ipynb)    | | |
+|4 | Thu Apr 23    | [regularization](slides/DL_regularization.pdf)                                         | | |
+|5 | Tue Apr 28    | [Data augmentation & generalization](slides/DL_regularization.pdf)                     | | |
+|5 | -             | [Notebook 4: CNNs & Logging](notebooks/notebook_4_augmentation_logging.ipynb)          | | |
+|5 | Thu Apr 30    | [Adversarial examples](slides/DL_adversarial_examples.pdf)                             | Homework 2| 15 |
+|5 | -             | [Notebook 5: adversarial examples](notebooks/notebook_5_adversarial_examples.ipynb)    | | |
+|6 | Tue May 5     | [Generative adversarial networks (GANS)](slides/DL_GANs.pdf)                           | | |
+|6 | -             | [Notebook 6: GANs](notebooks/notebook_6_gan.ipynb)                                     | | |
+|6 | Thu May 7     | MIDTERM                                                                                | Midterm   | 20 |
+|7 | Tue May 12    | [Unsupervised methods](slides/DL_unsupervised_methods.pdf)                             | | |
+|7 | -             | [Notebook 7: autoencoders](notebooks/notebook_7_autoencoder.ipynb)                     | | |
+|7 | Thu May 14    | [recurrent nets](slides/DL_recurrent_nets.pdf)                                         | | |
+|7 | -             | [LSTMs](slides/DL_recurrent_nets.pdf)                                                  | | |
+|7 | -             | [Notebook 8: RNNs](notebooks/notebook_8_rnn.ipynb)                                     | | |
+|8 | Tue May 19    | [Reinforcement learning (RL)](slides/DL_deep_reinforcement_learning.pdf)               | Homework 3 | 15 |
+|8 | Thu May 21    | [Deep RL](slides/DL_deep_reinforcement_learning.pdf)                                   | | |
+|9 | Tue May 26    | [Pong with Reinforcement learning (RL)](slides/GM_deep_RL_2_policy_gradients.pdf)      | | |
+|9 | Thu May 28    | [Attention networks](slides/DL_attention_networks.pdf)                                 | | |
+|10 | Tue Jun 2     | [Transformers](slides/DL_transformers.pdf)                                             | Homework 4 | 15 |
+|10 | Thu Jun 4     | Final exam preparation                                                                 | | |
+|11| Tue Jun 9     | no-class, finals week                                                                  | Make-up Homework | 15 | 
+|11| Thu Jun 11    | FINAL EXAM                                                                             | Final Exam | 20 |
 
 
 <a name="links"></a>
