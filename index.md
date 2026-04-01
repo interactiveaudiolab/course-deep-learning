@@ -1,6 +1,6 @@
  <a name="top"></a>
 
-# DEEP LEARNING: Northwestern University CS 396/496 Spring 2026
+# DEEP LEARNING: Northwestern University Comp Sci 449 Spring 2026
 
 |[**Top**](#top)|  [**Calendar**](#calendar)| [**Links**](#links)| [**Readings**](#readings)|
 
@@ -10,17 +10,27 @@ Tuesdays and Thursdays, 3:30pm - 4:50pm Central Time
 #### Loctation
 Technological Institute M345
 
-#### Instructors
+#### Instructors & Office Hours
 Professor: [Bryan Pardo](http://bryanpardo.com)
+Monday 10-11am on Class zoom link (https://northwestern.zoom.us/j/92331213369 )
 
-TAs: 
+Teaching Assistant: Chongyang Gao
+Wednesdy 10am - 11am, 12 PM  - 1pm, First floor lobby of Mudd
 
-Peer Mentors: 
+Teaching Assistant:  Hong-Yu Chen
+Monday 6-8pm, Mudd 3532
 
-#### Office hours
+Peer Mentor: Kaitlyn Wang
+Monday 3-5pm, First floor lobby of Mudd
 
-TBD
+Peer Mentor: Kefan Yu
+Tuesday 9-11am, Mudd 3532
 
+Peer Mentor: EJ Van de Grift
+Friday 1PM-3PM, Mudd 3532
+
+Peer Mentor: Harry Wang
+Thursday 9-11am, First floor lobby of Mudd
 
 ## Course Description 
 This is a first course in Deep Learning. We will study deep learning architectures: perceptrons, multi-layer perceptrons, convolutional networks, recurrent neural networks (LSTMs, GRUs), attention networks, transformers, autoencoders, and the combination of reinforcement learning with deep learning. Other covered topics include regularization, loss functions and gradient descent. 
