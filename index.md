@@ -14,23 +14,27 @@ Technological Institute M345
 Professor: [Bryan Pardo](http://bryanpardo.com)
 Monday 10-11am on Class zoom link (https://northwestern.zoom.us/j/92331213369 )
 
-Teaching Assistant: Chongyang Gao
-Wednesdy 10am - 11am, 12 PM  - 1pm, First floor lobby of Mudd
+Peer Mentor: Kaitlyn Wang
+Monday 3-5pm, First floor lobby of Mudd
 
 Teaching Assistant:  Hong-Yu Chen
 Monday 6-8pm, Mudd 3532
 
-Peer Mentor: Kaitlyn Wang
-Monday 3-5pm, First floor lobby of Mudd
-
 Peer Mentor: Kefan Yu
 Tuesday 9-11am, Mudd 3532
+
+Teaching Assistant: Chongyang Gao
+Wednesdy 10am - 11am, 12 PM  - 1pm, First floor lobby of Mudd
+
+Peer Mentor: Adwait Ganguly 
+Wednesday 1pm - 3pm, Room 4722 UNIVERSITY LIBRARY, 1970 Campus Drive 
+
+Peer Mentor: Harry Wang
+Thursday 9-11am, First floor lobby of Mudd
 
 Peer Mentor: EJ Van de Grift
 Friday 1PM-3PM, Mudd 3532
 
-Peer Mentor: Harry Wang
-Thursday 9-11am, First floor lobby of Mudd
 
 ## Course Description 
 This is a first course in Deep Learning. We will study deep learning architectures: perceptrons, multi-layer perceptrons, convolutional networks, recurrent neural networks (LSTMs, GRUs), attention networks, transformers, autoencoders, and the combination of reinforcement learning with deep learning. Other covered topics include regularization, loss functions and gradient descent. 
