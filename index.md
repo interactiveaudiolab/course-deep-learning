@@ -91,7 +91,7 @@ There are 5 homework assignments. The homework where you got the worst grade wil
 |6 | Tue May 5     | [Generative adversarial networks (GANS)](slides/DL_GANs.pdf)                           | | |
 |6 | -             | [Notebook 6: GANs](notebooks/notebook_6_gan.ipynb)                                     | | |
 |6 | Thu May 7     | MIDTERM                                                                                | Midterm   | 20 |
-|7 | Tue May 12    | [Unsupervised methods](slides/DL_unsupervised_methods.pdf)                             | | |
+|7 | Tue May 12    | [Autoencoders](slides/DL_Autoencoders.pdf)                             | | |
 |7 | -             | [Notebook 7: autoencoders](notebooks/notebook_7_autoencoder.ipynb)                     | | |
 |7 | Thu May 14    | [recurrent nets](slides/DL_recurrent_nets.pdf)                                         | | |
 |7 | -             | [LSTMs](slides/DL_recurrent_nets.pdf)                                                  | | |
