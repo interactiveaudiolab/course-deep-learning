@@ -12,7 +12,7 @@ Technological Institute M345
 
 #### Instructors & Office Hours
 Professor: [Bryan Pardo](http://bryanpardo.com)
-Monday 10-11am on Class zoom link (https://northwestern.zoom.us/j/92331213369 )
+Tuesday 11am-Noon room 3115 in Mudd
 
 Peer Mentor: Kaitlyn Wang
 Monday 3-5pm, First floor lobby of Mudd
