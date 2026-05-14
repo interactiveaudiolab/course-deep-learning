@@ -96,12 +96,12 @@ There are 5 homework assignments. The homework where you got the worst grade wil
 |7 | Thu May 14    | [recurrent nets](slides/DL_recurrent_nets.pdf)                                         | | |
 |7 | -             | [LSTMs](slides/DL_recurrent_nets.pdf)                                                  | | |
 |7 | -             | [Notebook 8: RNNs](notebooks/notebook_8_rnn.ipynb)                                     | | |
-|8 | Tue May 19    | [Reinforcement learning (RL)](slides/DL_deep_reinforcement_learning.pdf)               | Homework 3 | 15 |
-|8 | Thu May 21    | [Deep RL](slides/DL_deep_reinforcement_learning.pdf)                                   | | |
+|8 | Tue May 19    | [Reinforcement learning (RL)](slides/DL_deep_reinforcement_learning.pdf)               | | |
+|8 | Thu May 21    | [Deep RL](slides/DL_deep_reinforcement_learning.pdf)                                   | Homework 3 | 15 |
 |9 | Tue May 26    | [Pong with Reinforcement learning (RL)](slides/GM_deep_RL_2_policy_gradients.pdf)      | | |
 |9 | Thu May 28    | [Attention networks](slides/DL_attention_networks.pdf)                                 | | |
-|10 | Tue Jun 2     | [Transformers](slides/DL_transformers.pdf)                                             | Homework 4 | 15 |
-|10 | Thu Jun 4     | Final exam preparation                                                                 | | |
+|10 | Tue Jun 2     | [Transformers](slides/DL_transformers.pdf)                                            | Homework 4 | 15 |
+|10 | Thu Jun 4     | Final exam preparation                                                                | | |
 |11| Tue Jun 9     | no-class, finals week                                                                  | Make-up Homework | 15 | 
 |11| Thu Jun 11    | FINAL EXAM                                                                             | Final Exam | 20 |
 
