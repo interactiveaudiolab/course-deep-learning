@@ -12,3 +12,4 @@ librosa
 numpy
 seaborn
 torchsummary
+pyvirtualdisplay
