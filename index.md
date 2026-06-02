@@ -100,9 +100,9 @@ There are 5 homework assignments. The homework where you got the worst grade wil
 |8 | Thu May 21    | [RL from human feeback](slides/GM_deep_RL_3_human_feedback.pdf)                        | Homework 3 | 15 |
 |9 | Tue May 26    | [Attention networks](slides/DL_attention_networks.pdf)                                 | | |
 |9 | Thu May 28    | [Transformers](slides/DL_transformers.pdf)                                             | | |
-|10 | Tue Jun 2    | [Transformers](slides/DL_transformers.pdf)                                             | Homework 4 | 15 |
+|10 | Tue Jun 2    | [Image Language Modeling](slides/GM-image-language-modeling.pdf)                       | Homework 4 | 15 |
 |10 | Thu Jun 4    | Final exam preparation (or final exam, for early registrants)                          | | |
-|11| Tue Jun 9     | no-class, finals week                                                                  | Make-up Homework | 15 | 
+|11| Tue Jun 9     | no-class, finals week                                                                  | Homework 5 (makeup homework) | 15 | 
 |11| Thu Jun 11    | FINAL EXAM                                                                             | Final Exam | 20 |
 
 
