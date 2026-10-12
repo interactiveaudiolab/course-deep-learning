@@ -70,8 +70,8 @@ There is no extra credit....BUT...there are 5 homework assignments and we will o
 |5 | -             | [Notebook 6: GANs](notebooks/notebook_6_gan.ipynb)                                     | | |
 |5 | Thu Oct 8     | [Unsupervised methods](slides/DL_unsupervised_methods.pdf)                             | | |
 |5 | -             | [Notebook 7: autoencoders](notebooks/notebook_7_autoencoder.ipynb)                     | | |
-|6 | Tue Oct 13    | [Diffusion models](slides/GM_Score-Diffusion_Models.pdf)                                      | | |
-|6 | Thu Oct 15    | [Diffusion models](slides/GM_Score-Diffusion_Models.pdf)                                      | | |
+|6 | Tue Oct 13    | [Diffusion models](slides/GM_Score-Diffusion_Models.pdf)                               | | |
+|6 | Thu Oct 15    | [Diffusion models](slides/GM_Score-Diffusion_Models.pdf)                               | | |
 |6 | -             | Diffusion notebook                                                                     | | |
 |7 | Tue Oct 20    | Midterm Review                                                                         | | |
 |7 | Thu Oct 22    | Midterm                                                                                | Midterm   | 20 |
